@@ -37,6 +37,8 @@
 class G4ParticleGun;
 class G4Event;
 class G4Box;
+class G4GenericMessenger;
+
 
 namespace B1
 {
@@ -58,9 +60,29 @@ class PrimaryGeneratorAction : public G4VUserPrimaryGeneratorAction
     // method to access particle gun
     const G4ParticleGun* GetParticleGun() const { return fParticleGun; }
 
+    void Set_tetha (const G4double f_tetha);
+    void Set_phi (const G4double f_phi);
+    void Set_view_angle (const G4double f_view);
+
+    void set_direction(G4double val_tetha,G4double val_phi,G4double val_view);
+
+
   private:
     G4ParticleGun* fParticleGun = nullptr; // pointer a to G4 gun class
     G4Box* fEnvelopeBox = nullptr;
+
+
+
+  protected:
+    // Define commands for modifying the detector position
+    void DefineCommands();
+
+    G4double f_tetha = 0.0;
+    G4double f_phi = 0.0;
+    G4double f_view = CLHEP::pi/32;
+
+    G4GenericMessenger* fMessenger = nullptr;
+
 };
 
 }
