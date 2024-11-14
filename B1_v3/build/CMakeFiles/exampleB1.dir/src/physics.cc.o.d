@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/physics.cc.o: \
- /home/dima/geant/custom/B1_v3/src/physics.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/physics.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/physics.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/physics.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VModularPhysicsList.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VPhysicsConstructor.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleTable.hh \

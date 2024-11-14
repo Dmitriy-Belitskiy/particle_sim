@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: \
- /home/dima/geant/custom/B1_v3/src/PrimaryGeneratorAction.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/PrimaryGeneratorAction.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/PrimaryGeneratorAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/PrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleGun.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
@@ -557,4 +557,6 @@ CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleDefinition.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4SystemOfUnits.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/Randomize.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4RandomDirection.hh
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4RandomDirection.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4RotationMatrix.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4ThreeVector.hh

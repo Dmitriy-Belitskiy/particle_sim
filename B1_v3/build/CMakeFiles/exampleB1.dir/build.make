@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/dima/geant/custom/B1_v3
+CMAKE_SOURCE_DIR = /home/dima/geant/particle_sim/B1_v3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/dima/geant/custom/B1_v3/build
+CMAKE_BINARY_DIR = /home/dima/geant/particle_sim/B1_v3/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/exampleB1.dir/depend.make
@@ -70,116 +70,116 @@ include CMakeFiles/exampleB1.dir/progress.make
 include CMakeFiles/exampleB1.dir/flags.make
 
 CMakeFiles/exampleB1.dir/exampleB1.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/exampleB1.cc.o: /home/dima/geant/custom/B1_v3/exampleB1.cc
+CMakeFiles/exampleB1.dir/exampleB1.cc.o: /home/dima/geant/particle_sim/B1_v3/exampleB1.cc
 CMakeFiles/exampleB1.dir/exampleB1.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/exampleB1.dir/exampleB1.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/exampleB1.cc.o -MF CMakeFiles/exampleB1.dir/exampleB1.cc.o.d -o CMakeFiles/exampleB1.dir/exampleB1.cc.o -c /home/dima/geant/custom/B1_v3/exampleB1.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/exampleB1.dir/exampleB1.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/exampleB1.cc.o -MF CMakeFiles/exampleB1.dir/exampleB1.cc.o.d -o CMakeFiles/exampleB1.dir/exampleB1.cc.o -c /home/dima/geant/particle_sim/B1_v3/exampleB1.cc
 
 CMakeFiles/exampleB1.dir/exampleB1.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/exampleB1.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/exampleB1.cc > CMakeFiles/exampleB1.dir/exampleB1.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/exampleB1.cc > CMakeFiles/exampleB1.dir/exampleB1.cc.i
 
 CMakeFiles/exampleB1.dir/exampleB1.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/exampleB1.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/exampleB1.cc -o CMakeFiles/exampleB1.dir/exampleB1.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/exampleB1.cc -o CMakeFiles/exampleB1.dir/exampleB1.cc.s
 
 CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: /home/dima/geant/custom/B1_v3/src/ActionInitialization.cc
+CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: /home/dima/geant/particle_sim/B1_v3/src/ActionInitialization.cc
 CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o -MF CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o.d -o CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o -c /home/dima/geant/custom/B1_v3/src/ActionInitialization.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o -MF CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o.d -o CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/ActionInitialization.cc
 
 CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/ActionInitialization.cc > CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/ActionInitialization.cc > CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.i
 
 CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/ActionInitialization.cc -o CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/ActionInitialization.cc -o CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.s
 
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: /home/dima/geant/custom/B1_v3/src/DetectorConstruction.cc
+CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: /home/dima/geant/particle_sim/B1_v3/src/DetectorConstruction.cc
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o -MF CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o.d -o CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o -c /home/dima/geant/custom/B1_v3/src/DetectorConstruction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o -MF CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o.d -o CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/DetectorConstruction.cc
 
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/DetectorConstruction.cc > CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/DetectorConstruction.cc > CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.i
 
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/DetectorConstruction.cc -o CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/DetectorConstruction.cc -o CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.s
 
 CMakeFiles/exampleB1.dir/src/EventAction.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/EventAction.cc.o: /home/dima/geant/custom/B1_v3/src/EventAction.cc
+CMakeFiles/exampleB1.dir/src/EventAction.cc.o: /home/dima/geant/particle_sim/B1_v3/src/EventAction.cc
 CMakeFiles/exampleB1.dir/src/EventAction.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/exampleB1.dir/src/EventAction.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/EventAction.cc.o -MF CMakeFiles/exampleB1.dir/src/EventAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/EventAction.cc.o -c /home/dima/geant/custom/B1_v3/src/EventAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/exampleB1.dir/src/EventAction.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/EventAction.cc.o -MF CMakeFiles/exampleB1.dir/src/EventAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/EventAction.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/EventAction.cc
 
 CMakeFiles/exampleB1.dir/src/EventAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/EventAction.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/EventAction.cc > CMakeFiles/exampleB1.dir/src/EventAction.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/EventAction.cc > CMakeFiles/exampleB1.dir/src/EventAction.cc.i
 
 CMakeFiles/exampleB1.dir/src/EventAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/EventAction.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/EventAction.cc -o CMakeFiles/exampleB1.dir/src/EventAction.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/EventAction.cc -o CMakeFiles/exampleB1.dir/src/EventAction.cc.s
 
 CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: /home/dima/geant/custom/B1_v3/src/PrimaryGeneratorAction.cc
+CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: /home/dima/geant/particle_sim/B1_v3/src/PrimaryGeneratorAction.cc
 CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o -MF CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o -c /home/dima/geant/custom/B1_v3/src/PrimaryGeneratorAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o -MF CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/PrimaryGeneratorAction.cc
 
 CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/PrimaryGeneratorAction.cc > CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/PrimaryGeneratorAction.cc > CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.i
 
 CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/PrimaryGeneratorAction.cc -o CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/PrimaryGeneratorAction.cc -o CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.s
 
 CMakeFiles/exampleB1.dir/src/RunAction.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/RunAction.cc.o: /home/dima/geant/custom/B1_v3/src/RunAction.cc
+CMakeFiles/exampleB1.dir/src/RunAction.cc.o: /home/dima/geant/particle_sim/B1_v3/src/RunAction.cc
 CMakeFiles/exampleB1.dir/src/RunAction.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/exampleB1.dir/src/RunAction.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/RunAction.cc.o -MF CMakeFiles/exampleB1.dir/src/RunAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/RunAction.cc.o -c /home/dima/geant/custom/B1_v3/src/RunAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/exampleB1.dir/src/RunAction.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/RunAction.cc.o -MF CMakeFiles/exampleB1.dir/src/RunAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/RunAction.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/RunAction.cc
 
 CMakeFiles/exampleB1.dir/src/RunAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/RunAction.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/RunAction.cc > CMakeFiles/exampleB1.dir/src/RunAction.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/RunAction.cc > CMakeFiles/exampleB1.dir/src/RunAction.cc.i
 
 CMakeFiles/exampleB1.dir/src/RunAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/RunAction.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/RunAction.cc -o CMakeFiles/exampleB1.dir/src/RunAction.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/RunAction.cc -o CMakeFiles/exampleB1.dir/src/RunAction.cc.s
 
 CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: /home/dima/geant/custom/B1_v3/src/SteppingAction.cc
+CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: /home/dima/geant/particle_sim/B1_v3/src/SteppingAction.cc
 CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o -MF CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o -c /home/dima/geant/custom/B1_v3/src/SteppingAction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o -MF CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o.d -o CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/SteppingAction.cc
 
 CMakeFiles/exampleB1.dir/src/SteppingAction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/SteppingAction.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/SteppingAction.cc > CMakeFiles/exampleB1.dir/src/SteppingAction.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/SteppingAction.cc > CMakeFiles/exampleB1.dir/src/SteppingAction.cc.i
 
 CMakeFiles/exampleB1.dir/src/SteppingAction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/SteppingAction.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/SteppingAction.cc -o CMakeFiles/exampleB1.dir/src/SteppingAction.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/SteppingAction.cc -o CMakeFiles/exampleB1.dir/src/SteppingAction.cc.s
 
 CMakeFiles/exampleB1.dir/src/physics.cc.o: CMakeFiles/exampleB1.dir/flags.make
-CMakeFiles/exampleB1.dir/src/physics.cc.o: /home/dima/geant/custom/B1_v3/src/physics.cc
+CMakeFiles/exampleB1.dir/src/physics.cc.o: /home/dima/geant/particle_sim/B1_v3/src/physics.cc
 CMakeFiles/exampleB1.dir/src/physics.cc.o: CMakeFiles/exampleB1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/exampleB1.dir/src/physics.cc.o"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/physics.cc.o -MF CMakeFiles/exampleB1.dir/src/physics.cc.o.d -o CMakeFiles/exampleB1.dir/src/physics.cc.o -c /home/dima/geant/custom/B1_v3/src/physics.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/exampleB1.dir/src/physics.cc.o"
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/exampleB1.dir/src/physics.cc.o -MF CMakeFiles/exampleB1.dir/src/physics.cc.o.d -o CMakeFiles/exampleB1.dir/src/physics.cc.o -c /home/dima/geant/particle_sim/B1_v3/src/physics.cc
 
 CMakeFiles/exampleB1.dir/src/physics.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exampleB1.dir/src/physics.cc.i"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/custom/B1_v3/src/physics.cc > CMakeFiles/exampleB1.dir/src/physics.cc.i
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dima/geant/particle_sim/B1_v3/src/physics.cc > CMakeFiles/exampleB1.dir/src/physics.cc.i
 
 CMakeFiles/exampleB1.dir/src/physics.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exampleB1.dir/src/physics.cc.s"
-	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/custom/B1_v3/src/physics.cc -o CMakeFiles/exampleB1.dir/src/physics.cc.s
+	/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dima/geant/particle_sim/B1_v3/src/physics.cc -o CMakeFiles/exampleB1.dir/src/physics.cc.s
 
 # Object files for target exampleB1
 exampleB1_OBJECTS = \
@@ -254,7 +254,7 @@ exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4global.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4ptl.so.2.3.3
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libCLHEP-2.4.6.2.so
 exampleB1: CMakeFiles/exampleB1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dima/geant/custom/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable exampleB1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable exampleB1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/exampleB1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -266,6 +266,6 @@ CMakeFiles/exampleB1.dir/clean:
 .PHONY : CMakeFiles/exampleB1.dir/clean
 
 CMakeFiles/exampleB1.dir/depend:
-	cd /home/dima/geant/custom/B1_v3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dima/geant/custom/B1_v3 /home/dima/geant/custom/B1_v3 /home/dima/geant/custom/B1_v3/build /home/dima/geant/custom/B1_v3/build /home/dima/geant/custom/B1_v3/build/CMakeFiles/exampleB1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/dima/geant/particle_sim/B1_v3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dima/geant/particle_sim/B1_v3 /home/dima/geant/particle_sim/B1_v3 /home/dima/geant/particle_sim/B1_v3/build /home/dima/geant/particle_sim/B1_v3/build /home/dima/geant/particle_sim/B1_v3/build/CMakeFiles/exampleB1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/exampleB1.dir/depend
 

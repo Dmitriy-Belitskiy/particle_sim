@@ -1,5 +1,5 @@
 CMakeFiles/exampleB1.dir/src/EventAction.cc.o: \
- /home/dima/geant/custom/B1_v3/src/EventAction.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/EventAction.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4AnalysisManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4GenericAnalysisManager.hh \
@@ -344,10 +344,10 @@ CMakeFiles/exampleB1.dir/src/EventAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4GenericAnalysisManager.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4GenericFileManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4GenericFileManager.icc \
- /home/dima/geant/custom/B1_v3/include/EventAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/EventAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserEventAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
- /home/dima/geant/custom/B1_v3/include/RunAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/RunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserRunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.hh \

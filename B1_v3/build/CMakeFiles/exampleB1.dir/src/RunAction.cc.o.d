@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
- /home/dima/geant/custom/B1_v3/src/RunAction.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/RunAction.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/RunAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/RunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserRunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Types.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4GlobalConfig.hh \
@@ -256,7 +256,7 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4MergeMode.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
- /home/dima/geant/custom/B1_v3/include/PrimaryGeneratorAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/PrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleGun.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VPrimaryGenerator.hh \
@@ -297,7 +297,7 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4AllocatorPool.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4PrimaryParticle.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleMomentum.hh \
- /home/dima/geant/custom/B1_v3/include/DetectorConstruction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/DetectorConstruction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ThreeVector.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RunManager.hh \

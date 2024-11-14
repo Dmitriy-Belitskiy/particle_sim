@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: \
- /home/dima/geant/custom/B1_v3/src/SteppingAction.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/SteppingAction.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/SteppingAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/SteppingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserSteppingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ios.hh \
@@ -250,9 +250,9 @@ CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/parse_numbers.h \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/std_mutex.h \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/unique_lock.h \
- /home/dima/geant/custom/B1_v3/include/EventAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/EventAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserEventAction.hh \
- /home/dima/geant/custom/B1_v3/include/DetectorConstruction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/DetectorConstruction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ThreeVector.hh \

@@ -1,7 +1,7 @@
 CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o: \
- /home/dima/geant/custom/B1_v3/src/DetectorConstruction.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/DetectorConstruction.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/DetectorConstruction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/DetectorConstruction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ios.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Types.hh \

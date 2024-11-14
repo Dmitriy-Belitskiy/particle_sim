@@ -1,9 +1,9 @@
 CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: \
- /home/dima/geant/custom/B1_v3/src/ActionInitialization.cc \
+ /home/dima/geant/particle_sim/B1_v3/src/ActionInitialization.cc \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
- /home/dima/geant/custom/B1_v3/include/ActionInitialization.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/ActionInitialization.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserActionInitialization.hh \
- /home/dima/geant/custom/B1_v3/include/PrimaryGeneratorAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/PrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleGun.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
@@ -292,14 +292,14 @@ CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4PrimaryParticle.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ParticleMomentum.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
- /home/dima/geant/custom/B1_v3/include/RunAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/RunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserRunAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4MergeMode.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.icc \
- /home/dima/geant/custom/B1_v3/include/EventAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/EventAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserEventAction.hh \
- /home/dima/geant/custom/B1_v3/include/SteppingAction.hh \
+ /home/dima/geant/particle_sim/B1_v3/include/SteppingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserSteppingAction.hh

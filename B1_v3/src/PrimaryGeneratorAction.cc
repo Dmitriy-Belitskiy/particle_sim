@@ -39,7 +39,9 @@
 #include "G4SystemOfUnits.hh"
 #include "Randomize.hh"
 #include "G4RandomDirection.hh"
-
+#include "G4RotationMatrix.hh"
+#include "G4ThreeVector.hh"
+#include <cmath>
 
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
@@ -95,15 +97,41 @@ void PrimaryGeneratorAction::GeneratePrimaries(G4Event* anEvent)
 
 
 
-   G4double theta =G4UniformRand()* M_PI/32; // Кут від 0 до 180 градусів
-   G4double phi =  G4UniformRand()* M_PI*2;
+  G4double theta =sqrt(G4UniformRand())* CLHEP::pi/32; // иілесний кут конуса/2
+  G4double phi =  G4UniformRand()* CLHEP::pi*2; // це не трогати це щоб малювати конус від 0 до 360
+
+   // Define the angles in radians
+  // G4double theta_world = CLHEP::pi / 2.0*0;
+  // G4double phi_world = CLHEP::pi / 2.0*0;
+  G4double theta_world = CLHEP::pi / 4;  //цим крутити конус
+  G4double phi_world = CLHEP::pi / 4;    //цим теж
+
+  // Create rotation matrices for z-axis and y-axis rotations
+  G4RotationMatrix R_z;
+  R_z.rotateZ(phi_world);
+
+  G4RotationMatrix R_y;
+  R_y.rotateY(theta_world);
+
+  // Combine the rotations: equivalent to R = R_z * R_y in your Python code
+  G4RotationMatrix R = R_z * R_y;
+
+
+
+
+
+
 
   // Обчислення компонентів напрямку
-  G4double xDirection = sin(theta) * cos(phi);
+  G4double zDirection = sin(theta) * cos(phi);
   G4double yDirection = cos(theta);
-  G4double zDirection = sin(theta) * sin(phi);
+  G4double xDirection = sin(theta) * sin(phi);
 
-  fParticleGun->SetParticleMomentumDirection(G4ThreeVector(xDirection, yDirection, zDirection));
+  G4ThreeVector vector(zDirection , xDirection,yDirection);
+
+  G4ThreeVector vector_rot = R * vector;
+
+  fParticleGun->SetParticleMomentumDirection(vector_rot);
 
   fParticleGun->GeneratePrimaryVertex(anEvent);
 }
