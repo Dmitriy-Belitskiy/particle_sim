@@ -11,10 +11,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.395135833289384
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/0.png
 #___________end____________
 
 /run/initialize
@@ -25,10 +23,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.374334931698787
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/1.png
 #___________end____________
 
 /run/initialize
@@ -39,10 +35,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.352596387812289
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/2.png
 #___________end____________
 
 /run/initialize
@@ -53,10 +47,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.3298773295279585
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/3.png
 #___________end____________
 
 /run/initialize
@@ -67,10 +59,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.3061349866175553
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/4.png
 #___________end____________
 
 /run/initialize
@@ -81,10 +71,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.281327272144238
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/5.png
 #___________end____________
 
 /run/initialize
@@ -95,10 +83,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.255413491107677
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/6.png
 #___________end____________
 
 /run/initialize
@@ -109,10 +95,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.2283551891884423
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/7.png
 #___________end____________
 
 /run/initialize
@@ -123,10 +107,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.200117151732199
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/8.png
 #___________end____________
 
 /run/initialize
@@ -137,10 +119,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.1706685585108674
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/9.png
 #___________end____________
 
 /run/initialize
@@ -151,10 +131,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.1399842928825166
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/10.png
 #___________end____________
 
 /run/initialize
@@ -165,10 +143,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.108046394362436
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/11.png
 #___________end____________
 
 /run/initialize
@@ -179,10 +155,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.0748456310863084
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/12.png
 #___________end____________
 
 /run/initialize
@@ -193,10 +167,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.0403831532463226
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/13.png
 #___________end____________
 
 /run/initialize
@@ -207,10 +179,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 2.0046721707993833
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/14.png
 #___________end____________
 
 /run/initialize
@@ -221,10 +191,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.9677395796565729
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/15.png
 #___________end____________
 
 /run/initialize
@@ -235,10 +203,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.9296274419396697
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/16.png
 #___________end____________
 
 /run/initialize
@@ -249,10 +215,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.8903942102328766
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/17.png
 #___________end____________
 
 /run/initialize
@@ -263,10 +227,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.8501155761538568
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/18.png
 #___________end____________
 
 /run/initialize
@@ -277,10 +239,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.8088848233483044
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/19.png
 #___________end____________
 
 /run/initialize
@@ -291,10 +251,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.76681257717466
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/20.png
 #___________end____________
 
 /run/initialize
@@ -305,10 +263,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.7240258698044835
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/21.png
 #___________end____________
 
 /run/initialize
@@ -319,10 +275,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.6806664802618476
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/22.png
 #___________end____________
 
 /run/initialize
@@ -333,10 +287,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.6368885616299016
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/23.png
 #___________end____________
 
 /run/initialize
@@ -347,10 +299,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.5928556271918748
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/24.png
 #___________end____________
 
 /run/initialize
@@ -361,10 +311,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.5487370263979183
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/25.png
 #___________end____________
 
 /run/initialize
@@ -375,10 +323,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.5047040919598917
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/26.png
 #___________end____________
 
 /run/initialize
@@ -389,10 +335,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.4609261733279457
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/27.png
 #___________end____________
 
 /run/initialize
@@ -403,10 +347,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.4175667837853096
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/28.png
 #___________end____________
 
 /run/initialize
@@ -417,10 +359,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.3747800764151332
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/29.png
 #___________end____________
 
 /run/initialize
@@ -431,10 +371,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.3327078302414892
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/30.png
 #___________end____________
 
 /run/initialize
@@ -445,10 +383,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.2914770774359365
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/31.png
 #___________end____________
 
 /run/initialize
@@ -459,10 +395,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.2511984433569168
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/32.png
 #___________end____________
 
 /run/initialize
@@ -473,10 +407,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.2119652116501234
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/33.png
 #___________end____________
 
 /run/initialize
@@ -487,10 +419,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.1738530739332205
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/34.png
 #___________end____________
 
 /run/initialize
@@ -501,10 +431,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.13692048279041
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/35.png
 #___________end____________
 
 /run/initialize
@@ -515,10 +443,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.1012095003434708
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/36.png
 #___________end____________
 
 /run/initialize
@@ -529,10 +455,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.0667470225034847
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/37.png
 #___________end____________
 
 /run/initialize
@@ -543,10 +467,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.0335462592273572
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/38.png
 #___________end____________
 
 /run/initialize
@@ -557,10 +479,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 1.0016083607072768
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/39.png
 #___________end____________
 
 /run/initialize
@@ -571,10 +491,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.9709240950789259
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/40.png
 #___________end____________
 
 /run/initialize
@@ -585,10 +503,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.9414755018575943
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/41.png
 #___________end____________
 
 /run/initialize
@@ -599,10 +515,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.9132374644013512
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/42.png
 #___________end____________
 
 /run/initialize
@@ -613,10 +527,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.8861791624821161
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/43.png
 #___________end____________
 
 /run/initialize
@@ -627,10 +539,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.8602653814455555
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/44.png
 #___________end____________
 
 /run/initialize
@@ -641,10 +551,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.835457666972238
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/45.png
 #___________end____________
 
 /run/initialize
@@ -655,10 +563,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.8117153240618348
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/46.png
 #___________end____________
 
 /run/initialize
@@ -669,10 +575,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.7889962657775043
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/47.png
 #___________end____________
 
 /run/initialize
@@ -683,10 +587,8 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.7672577218910058
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/48.png
 #___________end____________
 
 /run/initialize
@@ -697,9 +599,7 @@
 /B5/gun/set_dir_tetha 1.5707963267948966
 /B5/gun/set_dir_phi 0.746456820300409
 /B5/gun/set_dir_view 0.0075000703142798445
-/run/beamOn 10
+/run/beamOn 1000000
 
-
-/vis/ogl/export ./visual/49.png
 #___________end____________
 
