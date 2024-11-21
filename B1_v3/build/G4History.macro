@@ -62,3 +62,2069 @@
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
+/vis/viewer/set/style w
+/vis/viewer/refresh
+/vis/viewer/set/hiddenEdge 0
+/vis/viewer/refresh
+/control/execute test.mac
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/run/printProgress 10000
+/run/initialize
+/B5/detector/setPositionX -4.0
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.896613990462929
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.959798994974874
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.894226647937837
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.919597989949749
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8917932986707915
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.879396984924623
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8893126294895466
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.8391959798994977
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.886783277978851
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.798994974874372
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.884203830213301
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.758793969849246
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8815728183677627
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.7185929648241207
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8788887181978704
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.678391959798995
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8761499463826286
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.6381909547738696
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.873354857720581
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.5979899497487438
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8705017421704704
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.557788944723618
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.867588821726661
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.5175879396984926
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8646142471189737
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.477386934673367
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8615760943258572
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.4371859296482414
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8584723608890674
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.3969849246231156
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.855300962017243
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.35678391959799
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.852059726464877
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.3165829145728645
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8487463921722838
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.2763819095477387
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8453586016511796
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.2361809045226133
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.841893897099432
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.1959798994974875
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.838349715227439
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.1557788944723617
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8347233817773936
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.115577889447236
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8310121057154234
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.0753768844221105
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8272129730752673
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -3.035175879396985
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8233229404307014
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.9949748743718594
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.81933882797243
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.9547738693467336
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.815257312163556
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.914572864321608
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8110749179460535
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.8743718592964824
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8067880104689054
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.834170854271357
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.8023927863066938
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.7939698492462313
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.79788526413551
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.7537688442211055
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.793261274831022
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.7135678391959797
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7885164509514566
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.6733668341708543
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.783646215566117
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.633165829145729
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7786457703878846
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.592964824120603
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.773510083165949
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.5527638190954773
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.768233874292847
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.5125628140703515
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7628116025777554
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.472361809045226
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7572374501359618
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.4321608040201004
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7515053063425645
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.391959798994975
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.745608750796838
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.351758793969849
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.739541035242386
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.3115577889447234
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.733295064387369
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.271356783919598
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.726863375568834
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.2311557788944723
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7202381172056818
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.190954773869347
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.713411025986316
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.150753768844221
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.7063734027397617
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.1105527638190953
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6991160869433615
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.07035175879397
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.691629429826419
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -2.030150753768844
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6839032660378708
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.9899497487437188
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6759268838577213
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.949748743718593
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.66768899394732
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.9095477386934672
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.65917769665334
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.8693467336683418
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.650380447905525
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.829145728643216
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6412840237800195
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.7889447236180902
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6318744838397636
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.7487437185929648
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6221371334125494
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.708542713567839
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.6120564850277983
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.6683417085427137
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.601616219307053
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.6281407035175879
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.5907991456930692
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.587939698492462
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.5795871635111016
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.5477386934673367
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.5679612239867033
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.507537688442211
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.555901294000738
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.4673366834170856
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.543386322548271
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.4271356783919598
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.530394211087857
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.386934673366834
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.5169017892259538
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.3467336683417086
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.5028847974822583
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.3065326633165828
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.4883178792298932
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.2663316582914574
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.4731745843032096
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.2261306532663316
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.4574273872177317
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.1859296482412058
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.441047723451749
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.1457286432160805
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.424006047794289
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.1055276381909547
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.406271919362124
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.0653266331658293
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.3878141185151005
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -1.0251256281407035
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.3686008015317146
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.9849246231155777
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.348599699511502
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.9447236180904524
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.32777836849887
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.9045226130653266
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.3061044982084953
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.8643216080402008
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.2835462868884475
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.8241206030150754
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.2600728896738387
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.7839195979899496
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.235654947127312
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.7437185929648242
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.2102651993770874
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.7035175879396984
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.1838791891768334
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.6633165829145726
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.156476054148701
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.6231155778894473
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.128039404271995
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.5829145728643215
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.0985582752314285
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.5427135678391961
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.0680281415119195
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.5025125628140703
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.0364519652252984
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.4623115577889445
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 2.0038412478669834
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.42211055276381915
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.9702170430483696
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.38190954773869334
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.9356108795169988
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.341708542713568
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.9000655365038426
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.3015075376884422
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.8636356088712556
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.2613065326633164
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.8263877990046766
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.22110552763819102
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.788400877115508
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.18090452261306522
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.7497652624660283
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.14070351758793986
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.7105821952323528
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.10050251256281406
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.6709624916828216
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.06030150753768826
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.6310249024958907
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX -0.0201005025125629
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.5908941228934876
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.020100502512562457
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.550698530696306
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.06030150753768826
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.5105677510939024
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.10050251256281406
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.4706301619069715
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.14070351758793986
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.4310104583574403
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.18090452261306567
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.3918273911237644
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.22110552763819058
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.3531917764742856
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.2613065326633164
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.3152048545851165
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.3015075376884422
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.2779570447185375
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.341708542713568
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.2415271170859505
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.3819095477386938
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.2059817740727938
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.4221105527638196
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.1713756105414233
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.4623115577889445
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.1377514057228097
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.5025125628140703
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.1051406883644945
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.5427135678391961
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.0735645120778734
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.5829145728643219
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.0430343783583644
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.6231155778894477
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 1.013553249317798
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.6633165829145726
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.9851165994410918
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.7035175879396984
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.9577134644129599
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.7437185929648242
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.9313274542127057
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.78391959798995
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.9059377064624806
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.8241206030150758
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.8815197639159542
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.8643216080402008
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.8580463667013457
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.9045226130653266
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.8354881553812978
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.9447236180904524
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.813814285090923
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 0.9849246231155782
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.7929929540782905
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.025125628140704
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.7729918520580785
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.0653266331658289
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.7537785350746932
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.1055276381909547
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.735320734227669
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.1457286432160805
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.7175866057955044
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.1859296482412063
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.7005449301380442
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.226130653266332
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6841652663720612
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.266331658291457
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6684180692865836
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.3065326633165828
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6532747743599
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.3467336683417086
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6387078561075349
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.3869346733668344
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6246908643638394
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.4271356783919602
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.6111984425019362
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.4673366834170851
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.598206331041522
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.507537688442211
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.585691359589055
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.5477386934673367
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5736314296030898
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.5879396984924625
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5620054900786914
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.6281407035175883
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5507935078967237
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.6683417085427132
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5399764342827402
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.708542713567839
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5295361685619949
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.7487437185929648
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5194555201772437
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.7889447236180906
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5097181697500296
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.8291457286432165
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.5003086298097738
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
+/run/initialize
+/B5/detector/setPositionX 1.8693467336683414
+/run/geometryModified
+/B5/detector/setPositionY -1.7
+/run/geometryModified
+/B5/detector/setPositionZ 0.0
+/run/geometryModified
+/B5/gun/set_dir_tetha 1.5707963267948966
+/B5/gun/set_dir_phi 0.4912122056842684
+/B5/gun/set_dir_view 0.014997532907583645
+/run/beamOn 100
+/vis/scene/notifyHandlers scene-0

@@ -72,7 +72,7 @@ void RunAction::BeginOfRunAction(const G4Run* run)
 
     // Get the run ID and use it in the file name
     G4int runID = run->GetRunID();
-    G4String fileName = "dump/output" + std::to_string(runID) + ".root";  // Change ".root" to ".csv" if needed
+    G4String fileName = "dump/data_root/output" + std::to_string(runID) + ".root";  // Change ".root" to ".csv" if needed
 
     // Open the file with the dynamic name
     analysisManager->OpenFile(fileName);
