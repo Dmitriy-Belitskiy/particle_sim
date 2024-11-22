@@ -214,10 +214,10 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
   G4ThreeVector pos1 = G4ThreeVector(0, -2*m, 0);
 
   // Shape 1
-  int scale =1;
+  int scale =100;
   G4double shape1_a = scale*3.78*mm;
   G4double shape1_b = scale*3.78*mm;
-  G4double shape1_hz = 18.9*mm;
+  G4double shape1_hz = scale/20*18.9*mm;
 
 
 

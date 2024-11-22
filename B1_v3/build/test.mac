@@ -4,2402 +4,3674 @@
 /tracking/verbose 0
 /run/printProgress 10000
 /run/initialize
-/B5/detector/setPositionX -4.0
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.000069930206519
+/B5/detector/setPositionY -3.0
+/B5/detector/setPositionZ -4.000012323918054
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.896613990462929
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.91170177684478
+/B5/detector/setRotY 0.0023289905180393154
+/B5/detector/setRotZ -179.45811334814877
 
+/B5/gun/set_dir_tetha 2.3547850305492317
+/B5/gun/set_dir_phi 3.066734109713535
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/0.png
+#___________end____________
+
+/run/initialize
+/B5/detector/setPositionX 4.001504120416939
+/B5/detector/setPositionY -2.979684031009674
+/B5/detector/setPositionZ -4.000293971295468
+
+/B5/detector/setRotX -179.9929485295643
+/B5/detector/setRotY 0.021200893618284918
+/B5/detector/setRotZ 179.94582977099873
+
+/B5/gun/set_dir_tetha 2.35482491265716
+/B5/gun/set_dir_phi 3.071811414160373
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/1.png
+#___________end____________
+
+/run/initialize
+/B5/detector/setPositionX 4.00287821944803
+/B5/detector/setPositionY -2.9223378255963324
+/B5/detector/setPositionZ -4.0005220120307055
+
+/B5/detector/setRotX 179.94713249163965
+/B5/detector/setRotY 0.03646613925863329
+/B5/detector/setRotZ 179.79079809994863
+
+/B5/gun/set_dir_tetha 2.3551299799809517
+/B5/gun/set_dir_phi 3.0861051807638367
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/2.png
+#___________end____________
+
+/run/initialize
+/B5/detector/setPositionX 4.003385714069009
+/B5/detector/setPositionY -2.8439515590667725
+/B5/detector/setPositionZ -4.0004679242149
+
+/B5/detector/setRotX 179.95673137593562
+/B5/detector/setRotY 0.0313912052559408
+/B5/detector/setRotZ 179.73117055236244
+
+/B5/gun/set_dir_tetha 2.3555069164161577
+/B5/gun/set_dir_phi 3.1056506841529985
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/3.png
+#___________end____________
+
+/run/initialize
+/B5/detector/setPositionX 4.002801688201726
+/B5/detector/setPositionY -2.776688498258591
+/B5/detector/setPositionZ -4.00021799064707
+
+/B5/detector/setRotX 179.9512582611911
+/B5/detector/setRotY -0.1697225607703357
+/B5/detector/setRotZ 179.81630810673286
+
+/B5/gun/set_dir_tetha 2.3557799027327064
+/B5/gun/set_dir_phi 3.1224362917946094
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/4.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.959798994974874
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.001496774889529
+/B5/detector/setPositionY -2.7312619507312776
+/B5/detector/setPositionZ -3.9997876885579897
+
+/B5/detector/setRotX 179.95552916188282
+/B5/detector/setRotY -0.41274915359995684
+/B5/detector/setRotZ 179.96704348038503
+
+/B5/gun/set_dir_tetha 2.355965630126598
+/B5/gun/set_dir_phi 3.133780248263301
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.894226647937837
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/5.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.919597989949749
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9999888371232375
+/B5/detector/setPositionY -2.7052180588245394
+/B5/detector/setPositionZ -3.9991679600439967
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8917932986707915
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.98395805604528
+/B5/detector/setRotY -0.1346503730347598
+/B5/detector/setRotZ 179.99664636815794
 
+/B5/gun/set_dir_tetha 2.35609144429991
+/B5/gun/set_dir_phi 3.140288135983109
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/6.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.879396984924623
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.998510031029582
+/B5/detector/setPositionY -2.6912150919437408
+/B5/detector/setPositionZ -3.998656996153295
+
+/B5/detector/setRotX -179.88558466084257
+/B5/detector/setRotY 0.04710779853035822
+/B5/detector/setRotZ -179.9516763983837
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8893126294895466
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.356211660591347
+/B5/gun/set_dir_phi 0.0021970418613896656
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/7.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.8391959798994977
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9973988333716988
+/B5/detector/setPositionY -2.6830975830554964
+/B5/detector/setPositionZ -3.9986411199904976
+
+/B5/detector/setRotX -179.6152256395196
+/B5/detector/setRotY 0.014930650171076604
+/B5/detector/setRotZ -179.74951648197998
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.886783277978851
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.356345383219895
+/B5/gun/set_dir_phi 0.004228328700113256
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/8.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.798994974874372
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.997980757430196
+/B5/detector/setPositionY -2.6758534014225006
+/B5/detector/setPositionZ -4.000426658336073
+
+/B5/detector/setRotX 177.2099183984918
+/B5/detector/setRotY 6.215050990817541
+/B5/detector/setRotZ -178.70644899526485
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.884203830213301
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.356491169350621
+/B5/gun/set_dir_phi 0.006039625111462204
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/9.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.758793969849246
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.005144643038511
+/B5/detector/setPositionY -2.6676497995853423
+/B5/detector/setPositionZ -3.9866006180644034
+
+/B5/detector/setRotX 163.73194993939651
+/B5/detector/setRotY 27.57676768809871
+/B5/detector/setRotZ 175.11969267639606
+
+/B5/gun/set_dir_tetha 2.3538577875248614
+/B5/gun/set_dir_phi 0.008076985929480605
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8815728183677627
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/10.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.7185929648241207
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.022263725101948
+/B5/detector/setPositionY -2.660825711488724
+/B5/detector/setPositionZ -3.9198519825935363
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8788887181978704
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 160.92857537867062
+/B5/detector/setRotY 54.913858445259265
+/B5/detector/setRotZ 165.20656054034933
 
+/B5/gun/set_dir_tetha 2.343276731655603
+/B5/gun/set_dir_phi 0.009739055574341005
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/11.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.678391959798995
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.044087973237038
+/B5/detector/setPositionY -2.654791456460953
+/B5/detector/setPositionZ -3.806144094467163
+
+/B5/detector/setRotX 155.6128098239235
+/B5/detector/setRotY 79.14663565102505
+/B5/detector/setRotZ 154.81166635980205
+
+/B5/gun/set_dir_tetha 2.3258621585737362
+/B5/gun/set_dir_phi 0.011178456247213538
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8761499463826286
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/12.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.6381909547738696
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.060745495557785
+/B5/detector/setPositionY -2.647955948114395
+/B5/detector/setPositionZ -3.676396894454956
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.873354857720581
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 1.896642690775747
+/B5/detector/setRotY 83.05088266399922
+/B5/detector/setRotZ -1.1041286327779865
 
+/B5/gun/set_dir_tetha 2.306518649654396
+/B5/gun/set_dir_phi 0.012815676984835832
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/13.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.5979899497487438
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.065424901247025
+/B5/detector/setPositionY -2.640822297334671
+/B5/detector/setPositionZ -3.5460746765136717
+
+/B5/detector/setRotX -12.353548659767453
+/B5/detector/setRotY 79.6798539332139
+/B5/detector/setRotZ -15.768374458154971
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8705017421704704
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.288015295665654
+/B5/gun/set_dir_phi 0.014555310938460282
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/14.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.557788944723618
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.055691176652909
+/B5/detector/setPositionY -2.634700757265091
+/B5/detector/setPositionZ -3.425380563735962
+
+/B5/detector/setRotX -38.38503093374618
+/B5/detector/setRotY 84.19625676559194
+/B5/detector/setRotZ -41.05367696443344
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.867588821726661
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.272075073518895
+/B5/gun/set_dir_phi 0.0160992536769392
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/15.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.5175879396984926
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.034498521685601
+/B5/detector/setPositionY -2.6296936333179475
+/B5/detector/setPositionZ -3.3190625667572022
+
+/B5/detector/setRotX -72.0579224321212
+/B5/detector/setRotY 86.0249243078442
+/B5/detector/setRotZ -73.0168446945749
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8646142471189737
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.259134159654182
+/B5/gun/set_dir_phi 0.01742453264509637
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/16.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.477386934673367
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.009214038401842
+/B5/detector/setPositionY -2.625280338525772
+/B5/detector/setPositionZ -3.228941869735718
+
+/B5/detector/setRotX -48.80208051450677
+/B5/detector/setRotY 86.46509268065451
+/B5/detector/setRotZ -47.72816024746478
+
+/B5/gun/set_dir_tetha 2.2487244968900693
+/B5/gun/set_dir_phi 0.01863482757174756
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8615760943258572
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/17.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.4371859296482414
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.988073184341192
+/B5/detector/setPositionY -2.620900684595108
+/B5/detector/setPositionZ -3.151551628112793
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8584723608890674
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -15.327542924711464
+/B5/detector/setRotY 85.48319797421303
+/B5/detector/setRotZ -12.808918592856061
 
+/B5/gun/set_dir_tetha 2.2394645635218606
+/B5/gun/set_dir_phi 0.019831367680944817
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/18.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.3969849246231156
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9761267080903053
+/B5/detector/setPositionY -2.6167880117893216
+/B5/detector/setPositionZ -3.0770266532897947
+
+/B5/detector/setRotX 5.925313912975655
+/B5/detector/setRotY 84.9019705838131
+/B5/detector/setRotZ 8.926246793654707
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.855300962017243
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2292974464321884
+/B5/gun/set_dir_phi 0.0209248470172621
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/19.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.35678391959799
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9764641135931016
+/B5/detector/setPositionY -2.613779073953628
+/B5/detector/setPositionZ -3.0014595985412598
+
+/B5/detector/setRotX 21.406201332765264
+/B5/detector/setRotY 84.89515470426632
+/B5/detector/setRotZ 23.935444907668842
+
+/B5/gun/set_dir_tetha 2.2172532828030604
+/B5/gun/set_dir_phi 0.021679415505833535
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.852059726464877
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/20.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.3165829145728645
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.98729367852211
+/B5/detector/setPositionY -2.612075787782669
+/B5/detector/setPositionZ -2.919020652770996
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8487463921722838
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 27.667549290038526
+/B5/detector/setRotY 85.08388365590888
+/B5/detector/setRotZ 29.066640562504634
 
+/B5/gun/set_dir_tetha 2.202614236749351
+/B5/gun/set_dir_phi 0.02204752706527759
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/21.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.2763819095477387
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.003927005454898
+/B5/detector/setPositionY -2.6109878361225123
+/B5/detector/setPositionZ -2.829478073120117
+
+/B5/detector/setRotX 20.052437537166536
+/B5/detector/setRotY 85.56068605446299
+/B5/detector/setRotZ 20.18050460833907
+
+/B5/gun/set_dir_tetha 2.185872182081315
+/B5/gun/set_dir_phi 0.02222755410708957
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8453586016511796
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/22.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.2361809045226133
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.02147773951292
+/B5/detector/setPositionY -2.610013228654861
+/B5/detector/setPositionZ -2.733650779724121
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.841893897099432
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 16.58648151644182
+/B5/detector/setRotY 85.80464043452164
+/B5/detector/setRotZ 15.71615780794664
 
+/B5/gun/set_dir_tetha 2.1676943729548976
+/B5/gun/set_dir_phi 0.022372809847644323
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/23.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.1959798994974875
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.0359181523323056
+/B5/detector/setPositionY -2.6090176403522487
+/B5/detector/setPositionZ -2.631757926940918
+
+/B5/detector/setRotX 13.430713823532056
+/B5/detector/setRotY 86.14330905407067
+/B5/detector/setRotZ 11.929495894035094
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.838349715227439
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.1485190040147084
+/B5/gun/set_dir_phi 0.02253934511965626
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/24.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.1557788944723617
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.044130244851113
+/B5/detector/setPositionY -2.6080901920795436
+/B5/detector/setPositionZ -2.529969596862793
+
+/B5/detector/setRotX 8.823090415070764
+/B5/detector/setRotY 86.48397940788917
+/B5/detector/setRotZ 7.2320204587504575
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8347233817773936
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.1297041029214774
+/B5/gun/set_dir_phi 0.02272280647253025
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/25.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.115577889447236
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.045999553799629
+/B5/detector/setPositionY -2.606882673501968
+/B5/detector/setPositionZ -2.4234517097473143
+
+/B5/detector/setRotX 1.9923170988916212
+/B5/detector/setRotY 86.67250636303002
+/B5/detector/setRotZ 0.719244194761341
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8310121057154234
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.110344943261159
+/B5/gun/set_dir_phi 0.023010603399313156
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/26.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.0753768844221105
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.042571529746056
+/B5/detector/setPositionY -2.605818349123001
+/B5/detector/setPositionZ -2.3210027694702147
+
+/B5/detector/setRotX -5.558592983551446
+/B5/detector/setRotY 86.66058131645775
+/B5/detector/setRotZ -6.382187150725664
+
+/B5/gun/set_dir_tetha 2.091867048184632
+/B5/gun/set_dir_phi 0.023293246890137984
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8272129730752673
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/27.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -3.035175879396985
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.035471090674401
+/B5/detector/setPositionY -2.6049761116504664
+/B5/detector/setPositionZ -2.215393829345703
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8233229404307014
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -8.171906868383875
+/B5/detector/setRotY 86.56254271468566
+/B5/detector/setRotZ -8.523265445013706
 
+/B5/gun/set_dir_tetha 2.072739355504022
+/B5/gun/set_dir_phi 0.023542810606597075
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/28.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.9949748743718594
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.027267864346504
+/B5/detector/setPositionY -2.60471470952034
+/B5/detector/setPositionZ -2.116270065307617
+
+/B5/detector/setRotX -9.233232264034054
+/B5/detector/setRotY 86.45780141792125
+/B5/detector/setRotZ -8.989261686704571
+
+/B5/gun/set_dir_tetha 2.0545084790826813
+/B5/gun/set_dir_phi 0.023655619520029446
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.81933882797243
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/29.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.9547738693467336
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.019783723354339
+/B5/detector/setPositionY -2.6047840416431423
+/B5/detector/setPositionZ -2.019902229309082
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.815257312163556
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -6.468447939458687
+/B5/detector/setRotY 86.32097067287613
+/B5/detector/setRotZ -5.965944909061909
 
+/B5/gun/set_dir_tetha 2.036321664446233
+/B5/gun/set_dir_phi 0.02368240766550958
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/30.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.914572864321608
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.014158625900746
+/B5/detector/setPositionY -2.604697877168655
+/B5/detector/setPositionZ -1.922812271118164
+
+/B5/detector/setRotX -2.26580469627542
+/B5/detector/setRotY 86.12549382119064
+/B5/detector/setRotZ -1.5240777013623579
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8110749179460535
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.0173996151565285
+/B5/gun/set_dir_phi 0.02373703478435658
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/31.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.8743718592964824
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.0115256361663345
+/B5/detector/setPositionY -2.6044136106967923
+/B5/detector/setPositionZ -1.8280935287475586
+
+/B5/detector/setRotX 1.9511855145443804
+/B5/detector/setRotY 85.95394897526606
+/B5/detector/setRotZ 2.606323384592727
+
+/B5/gun/set_dir_tetha 1.998281694521291
+/B5/gun/set_dir_phi 0.023823431219881595
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8067880104689054
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/32.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.834170854271357
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.011626687645912
+/B5/detector/setPositionY -2.6039273560047147
+/B5/detector/setPositionZ -1.7345237731933594
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.8023927863066938
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 5.351095545504018
+/B5/detector/setRotY 85.84249567418154
+/B5/detector/setRotZ 5.81722661327191
 
+/B5/gun/set_dir_tetha 1.9787919271276457
+/B5/gun/set_dir_phi 0.02394397356635195
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/33.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.7939698492462313
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.013727068901062
+/B5/detector/setPositionY -2.6028747618198387
+/B5/detector/setPositionZ -1.6405122756958008
+
+/B5/detector/setRotX 7.395928711850358
+/B5/detector/setRotY 85.80477169556971
+/B5/detector/setRotZ 7.60546145368562
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.79788526413551
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.9586994162446174
+/B5/gun/set_dir_phi 0.024193545237422603
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/34.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.7537688442211055
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.016749607026577
+/B5/detector/setPositionY -2.6014679014682764
+/B5/detector/setPositionZ -1.5442892074584962
+
+/B5/detector/setRotX 8.01869634479172
+/B5/detector/setRotY 85.83943847361515
+/B5/detector/setRotZ 8.047317511268608
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.793261274831022
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.9377361516199814
+/B5/gun/set_dir_phi 0.02452538790495127
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/35.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.7135678391959797
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.019848948717117
+/B5/detector/setPositionY -2.6003643572330466
+/B5/detector/setPositionZ -1.4457334518432616
+
+/B5/detector/setRotX 7.578503576871358
+/B5/detector/setRotY 85.89528980512719
+/B5/detector/setRotZ 7.4409269431724825
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7885164509514566
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.9159430990909982
+/B5/gun/set_dir_phi 0.024780843288485347
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/36.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.6733668341708543
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.022375604510307
+/B5/detector/setPositionY -2.599491983652114
+/B5/detector/setPositionZ -1.3438428878784179
+
+/B5/detector/setRotX 4.476262168798362
+/B5/detector/setRotY 85.9842395943047
+/B5/detector/setRotZ 4.2250528349594365
+
+/B5/gun/set_dir_tetha 1.8931356028521449
+/B5/gun/set_dir_phi 0.024982029596423958
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.783646215566117
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/37.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.633165829145729
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.0237035095691684
+/B5/detector/setPositionY -2.5988992989063258
+/B5/detector/setPositionZ -1.2442779541015625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7786457703878846
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 2.840631300926778
+/B5/detector/setRotY 86.0610931008697
+/B5/detector/setRotZ 2.463263509313971
 
+/B5/gun/set_dir_tetha 1.870616675815931
+/B5/gun/set_dir_phi 0.025120994363072222
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/38.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.592964824120603
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.023508395254612
+/B5/detector/setPositionY -2.5986825048923485
+/B5/detector/setPositionZ -1.1445335388183593
+
+/B5/detector/setRotX 1.0175607053140794
+/B5/detector/setRotY 86.14241508308267
+/B5/detector/setRotZ 0.7317019800178911
+
+/B5/gun/set_dir_tetha 1.847854037756217
+/B5/gun/set_dir_phi 0.025176059820133316
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.773510083165949
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/39.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.5527638190954773
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.022055053710938
+/B5/detector/setPositionY -2.5991604626178733
+/B5/detector/setPositionZ -1.043912696838379
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.768233874292847
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -0.5259943886500372
+/B5/detector/setRotY 86.17436009820352
+/B5/detector/setRotZ -0.7415910293865724
 
+/B5/gun/set_dir_tetha 1.824663718278965
+/B5/gun/set_dir_phi 0.02506639396535253
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/40.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.5125628140703515
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.019654542207718
+/B5/detector/setPositionY -2.600397711992263
+/B5/detector/setPositionZ -0.9434700012207031
+
+/B5/detector/setRotX -0.9304268390092797
+/B5/detector/setRotY 86.1454155766272
+/B5/detector/setRotZ -1.0073411376384236
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7628116025777554
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.8012691641322756
+/B5/gun/set_dir_phi 0.02477374847471866
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/41.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.472361809045226
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.016845445334911
+/B5/detector/setPositionY -2.601903992891311
+/B5/detector/setPositionZ -0.844510841369629
+
+/B5/detector/setRotX 0.16956456095595845
+/B5/detector/setRotY 86.0830069154104
+/B5/detector/setRotZ 0.21667103335371046
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7572374501359618
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.7779605659023867
+/B5/gun/set_dir_phi 0.024416302336441625
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/42.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.4321608040201004
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.014214952290058
+/B5/detector/setPositionY -2.6030974447727195
+/B5/detector/setPositionZ -0.7468639373779297
+
+/B5/detector/setRotX 0.6816346784748359
+/B5/detector/setRotY 85.98802088272113
+/B5/detector/setRotZ 0.7960424348818906
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7515053063425645
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.7546954149953546
+/B5/gun/set_dir_phi 0.024135164709024874
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/43.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.391959798994975
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.012081787735224
+/B5/detector/setPositionY -2.6034087717533105
+/B5/detector/setPositionZ -0.6508895874023437
+
+/B5/detector/setRotX 1.9319314101517884
+/B5/detector/setRotY 85.87236985189016
+/B5/detector/setRotZ 2.088466740662811
+
+/B5/gun/set_dir_tetha 1.7315816973108737
+/B5/gun/set_dir_phi 0.024070439761207457
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.745608750796838
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/44.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.351758793969849
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.010574083030224
+/B5/detector/setPositionY -2.602782613039016
+/B5/detector/setPositionZ -0.5538490295410157
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.739541035242386
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -5.385324994050226
+/B5/detector/setRotY 85.74027570239541
+/B5/detector/setRotZ -5.258412375170609
 
+/B5/gun/set_dir_tetha 1.707985759648931
+/B5/gun/set_dir_phi 0.02423552098022539
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/45.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.3115577889447234
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.009432443231344
+/B5/detector/setPositionY -2.60225983262062
+/B5/detector/setPositionZ -0.4582851409912109
+
+/B5/detector/setRotX -32.305959214844655
+/B5/detector/setRotY 84.87948892993624
+/B5/detector/setRotZ -32.305665216887384
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.733295064387369
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.6845706519721266
+/B5/gun/set_dir_phi 0.02437272967372182
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/46.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.271356783919598
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.007900428771973
+/B5/detector/setPositionY -2.6026551544666283
+/B5/detector/setPositionZ -0.3748149871826172
+
+/B5/detector/setRotX -41.60666877443486
+/B5/detector/setRotY 84.14702050862743
+/B5/detector/setRotZ -41.64928735930329
+
+/B5/gun/set_dir_tetha 1.664016818851656
+/B5/gun/set_dir_phi 0.0242834651686498
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.726863375568834
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/47.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.2311557788944723
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.005603463202715
+/B5/detector/setPositionY -2.603650122880935
+/B5/detector/setPositionZ -0.3089908599853516
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7202381172056818
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -41.89998829428095
+/B5/detector/setRotY 84.03200704180318
+/B5/detector/setRotZ -41.8174274831323
 
+/B5/gun/set_dir_tetha 1.6477613419975012
+/B5/gun/set_dir_phi 0.024049135738537415
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/48.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.190954773869347
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.002826316840947
+/B5/detector/setPositionY -2.604721170663833
+/B5/detector/setPositionZ -0.25777854919433596
+
+/B5/detector/setRotX -35.87868131148171
+/B5/detector/setRotY 84.28889816789199
+/B5/detector/setRotZ -35.67975610897564
+
+/B5/gun/set_dir_tetha 1.6350884949676256
+/B5/gun/set_dir_phi 0.023798394841501036
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.713411025986316
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/49.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.150753768844221
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.000398141844198
+/B5/detector/setPositionY -2.6053762972354884
+/B5/detector/setPositionZ -0.22144699096679688
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.7063734027397617
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -26.307977276227582
+/B5/detector/setRotY 84.42160678412176
+/B5/detector/setRotZ -25.978522043958677
 
+/B5/gun/set_dir_tetha 1.6260806935119614
+/B5/gun/set_dir_phi 0.02364916147873731
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/50.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.1105527638190953
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9990499412640927
+/B5/detector/setPositionY -2.6053976118564597
+/B5/detector/setPositionZ -0.1954479217529297
+
+/B5/detector/setRotX -14.011985664156338
+/B5/detector/setRotY 84.27927846470135
+/B5/detector/setRotZ -13.4698938940281
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6991160869433615
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.6196174205682765
+/B5/gun/set_dir_phi 0.023651804412361692
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/51.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.07035175879397
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.999566658725962
+/B5/detector/setPositionY -2.6050303995609276
+/B5/detector/setPositionZ -0.1750965118408203
+
+/B5/detector/setRotX -4.933862778758547
+/B5/detector/setRotY 83.81971399735919
+/B5/detector/setRotZ -4.329352265525698
+
+/B5/gun/set_dir_tetha 1.6145349479892626
+/B5/gun/set_dir_phi 0.023740511378430307
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.691629429826419
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/52.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -2.030150753768844
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 4.002002695947885
+/B5/detector/setPositionY -2.604747682809829
+/B5/detector/setPositionZ -0.15630607604980468
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6839032660378708
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 9.657493842207337
+/B5/detector/setRotY 85.50702806828397
+/B5/detector/setRotZ 7.455323713869772
 
+/B5/gun/set_dir_tetha 1.6098224081313426
+/B5/gun/set_dir_phi 0.023796669785602718
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/53.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.9899497487437188
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.9904438756406306
+/B5/detector/setPositionY -2.6041621506214137
+/B5/detector/setPositionZ -0.1346355438232422
+
+/B5/detector/setRotX 170.7128408211615
+/B5/detector/setRotY 77.36955645360754
+/B5/detector/setRotZ 156.8368864426802
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6759268838577213
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.6045133083440473
+/B5/gun/set_dir_phi 0.024012223211668668
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/54.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.949748743718593
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.927748626470566
+/B5/detector/setPositionY -2.604584270715713
+/B5/detector/setPositionZ -0.10597953796386719
+
+/B5/detector/setRotX 179.7729586046996
+/B5/detector/setRotY 50.06694903278817
+/B5/detector/setRotZ 168.9915297910942
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.66768899394732
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5977640901194654
+/B5/gun/set_dir_phi 0.02428795107846264
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/55.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.9095477386934672
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.819089210033417
+/B5/detector/setPositionY -2.6049752295017234
+/B5/detector/setPositionZ -0.07563209533691406
+
+/B5/detector/setRotX -178.9525803263447
+/B5/detector/setRotY 24.335872945388214
+/B5/detector/setRotZ 176.00409626141996
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.65917769665334
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5905913131630836
+/B5/gun/set_dir_phi 0.02487639405994063
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/56.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.8693467336683418
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.6961453676223757
+/B5/detector/setPositionY -2.6042079985141746
+/B5/detector/setPositionZ -0.05040473937988281
+
+/B5/detector/setRotX -178.07568355165304
+/B5/detector/setRotY 5.266577408545905
+/B5/detector/setRotZ 179.74001781412923
+
+/B5/gun/set_dir_tetha 1.5844280143864007
+/B5/gun/set_dir_phi 0.025910929768240915
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.650380447905525
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/57.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.829145728643216
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.567305326461792
+/B5/detector/setPositionY -2.602219039201736
+/B5/detector/setPositionZ -0.032330322265625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6412840237800195
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -177.64446149038756
+/B5/detector/setRotY -0.7959761785537502
+/B5/detector/setRotZ -178.23997071771558
 
+/B5/gun/set_dir_tetha 1.5798556297475144
+/B5/gun/set_dir_phi 0.027403452872010552
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/58.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.7889447236180902
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.4481603622436525
+/B5/detector/setPositionY -2.59992828965187
+/B5/detector/setPositionZ -0.02413330078125
+
+/B5/detector/setRotX -177.86044309205008
+/B5/detector/setRotY 3.8870741565985103
+/B5/detector/setRotZ -176.9484438974183
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6318744838397636
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5777921587242993
+/B5/gun/set_dir_phi 0.029013624211412944
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/59.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.7487437185929648
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.3407744407653808
+/B5/detector/setPositionY -2.5986244499683373
+/B5/detector/setPositionZ -0.024671173095703124
+
+/B5/detector/setRotX -178.6271215063872
+/B5/detector/setRotY 7.6399889473511875
+/B5/detector/setRotZ -176.82210169916414
+
+/B5/gun/set_dir_tetha 1.5781776614904997
+/B5/gun/set_dir_phi 0.03033561618237116
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6221371334125494
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/60.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.708542713567839
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.2483339309692383
+/B5/detector/setPositionY -2.5982461988925927
+/B5/detector/setPositionZ -0.030669784545898436
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.6120564850277983
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.724334575938
+/B5/detector/setRotY 6.984874987271216
+/B5/detector/setRotZ -177.75444395316356
 
+/B5/gun/set_dir_tetha 1.5802331146740929
+/B5/gun/set_dir_phi 0.031314680342762
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/61.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.6683417085427137
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.16202449798584
+/B5/detector/setPositionY -2.598359161615371
+/B5/detector/setPositionZ -0.038009262084960936
+
+/B5/detector/setRotX 179.229787204039
+/B5/detector/setRotY 5.025247678370256
+/B5/detector/setRotZ -179.1358146266118
+
+/B5/gun/set_dir_tetha 1.582810089827207
+/B5/gun/set_dir_phi 0.03213316446110212
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.601616219307053
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/62.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.6281407035175879
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.0826492309570312
+/B5/detector/setPositionY -2.5985666096210474
+/B5/detector/setPositionZ -0.04215583801269531
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.5907991456930692
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 178.59286275565873
+/B5/detector/setRotY 4.402927885980734
+/B5/detector/setRotZ 179.59490129009217
 
+/B5/gun/set_dir_tetha 1.5844632764557405
+/B5/gun/set_dir_phi 0.03289274866153622
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/63.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.587939698492462
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 3.001604747772217
+/B5/detector/setPositionY -2.5990472137928
+/B5/detector/setPositionZ -0.04092140197753906
+
+/B5/detector/setRotX 178.58399876350745
+/B5/detector/setRotY 4.781760509613949
+/B5/detector/setRotZ 178.63636616633744
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.5795871635111016
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5844209541928067
+/B5/gun/set_dir_phi 0.03362026496766745
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/64.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.5477386934673367
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.9160364151000975
+/B5/detector/setPositionY -2.5996625244617455
+/B5/detector/setPositionZ -0.03398971557617188
+
+/B5/detector/setRotX 178.91966252209124
+/B5/detector/setRotY 5.057576161590954
+/B5/detector/setRotZ 178.15051046783265
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.5679612239867033
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5824450412523785
+/B5/gun/set_dir_phi 0.034395285427170665
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/65.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.507537688442211
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.8258081436157227
+/B5/detector/setPositionY -2.6000733435153953
+/B5/detector/setPositionZ -0.023089599609375
+
+/B5/detector/setRotX 179.62100686385324
+/B5/detector/setRotY 4.891940398783582
+/B5/detector/setRotZ 178.66545712975514
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.555901294000738
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5789620133970075
+/B5/gun/set_dir_phi 0.03534742292365493
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/66.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.4673366834170856
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.7295207023620605
+/B5/detector/setPositionY -2.600213104486465
+/B5/detector/setPositionZ -0.01050567626953125
+
+/B5/detector/setRotX -179.76056346255075
+/B5/detector/setRotY 4.584169112982136
+/B5/detector/setRotZ 179.0740673977748
+
+/B5/gun/set_dir_tetha 1.5746426471446053
+/B5/gun/set_dir_phi 0.03654212090816456
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.543386322548271
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/67.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.4271356783919598
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.6281610488891602
+/B5/detector/setPositionY -2.6005064785480494
+/B5/detector/setPositionZ 0.0012607574462890625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.530394211087857
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.130141405543
+/B5/detector/setRotY 4.394025480858234
+/B5/detector/setRotZ 179.41319432593454
 
+/B5/gun/set_dir_tetha 1.570316959327902
+/B5/gun/set_dir_phi 0.037838637500445124
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/68.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.386934673366834
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.5278361320495604
+/B5/detector/setPositionY -2.6010333597660056
+/B5/detector/setPositionZ 0.009385299682617188
+
+/B5/detector/setRotX -178.98706612836412
+/B5/detector/setRotY 4.321847885247689
+/B5/detector/setRotZ 179.64146791822915
+
+/B5/gun/set_dir_tetha 1.567086405887895
+/B5/gun/set_dir_phi 0.039130749314326876
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.5169017892259538
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/69.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.3467336683417086
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.4233575820922852
+/B5/detector/setPositionY -2.6021722137928003
+/B5/detector/setPositionZ 0.013523483276367187
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.5028847974822583
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.00795554244633
+/B5/detector/setRotY 4.281944017896908
+/B5/detector/setRotZ 179.92872610500385
 
+/B5/gun/set_dir_tetha 1.5652204523794089
+/B5/gun/set_dir_phi 0.04034678899405825
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/70.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.3065326633165828
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.320857620239258
+/B5/detector/setPositionY -2.6036415159702293
+/B5/detector/setPositionZ 0.013622283935546875
+
+/B5/detector/setRotX -179.31952563494244
+/B5/detector/setRotY 4.240275559687725
+/B5/detector/setRotZ -179.82514665680307
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.4883178792298932
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5649319420057035
+/B5/gun/set_dir_phi 0.04149464978092478
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/71.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.2663316582914574
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.2201751708984374
+/B5/detector/setPositionY -2.604789906740188
+/B5/detector/setPositionZ 0.010960006713867187
+
+/B5/detector/setRotX -179.67928992595193
+/B5/detector/setRotY 4.224904747741059
+/B5/detector/setRotZ -179.7126859677436
+
+/B5/gun/set_dir_tetha 1.5658643493546258
+/B5/gun/set_dir_phi 0.04285778605402566
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.4731745843032096
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/72.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.2261306532663316
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.119480514526367
+/B5/detector/setPositionY -2.605350595712661
+/B5/detector/setPositionZ 0.006854629516601563
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.4574273872177317
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.9691199644243
+/B5/detector/setRotY 4.243771698610086
+/B5/detector/setRotZ -179.63786771724406
 
+/B5/gun/set_dir_tetha 1.5675654497152434
+/B5/gun/set_dir_phi 0.04462723814333524
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/73.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.1859296482412058
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 2.020211029052734
+/B5/detector/setPositionY -2.6052719891071314
+/B5/detector/setPositionZ 0.00287017822265625
+
+/B5/detector/setRotX 179.69412589006717
+/B5/detector/setRotY 4.288874693514606
+/B5/detector/setRotZ -179.75878573728204
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.441047723451749
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5693771551643767
+/B5/gun/set_dir_phi 0.0468558359667578
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/74.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.1457286432160805
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.9231836318969726
+/B5/detector/setPositionY -2.6044265568256373
+/B5/detector/setPositionZ 0.0001537322998046875
+
+/B5/detector/setRotX 179.59074670687875
+/B5/detector/setRotY 4.341946388627366
+/B5/detector/setRotZ -179.90624613412723
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.424006047794289
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.57071648895913
+/B5/gun/set_dir_phi 0.049654583556511936
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/75.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.1055276381909547
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.8290315628051759
+/B5/detector/setPositionY -2.6032489359378808
+/B5/detector/setPositionZ -0.0008464813232421875
+
+/B5/detector/setRotX 179.55394136307473
+/B5/detector/setRotY 4.376376717425522
+/B5/detector/setRotZ 179.9206340304884
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.406271919362124
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5712584836401453
+/B5/gun/set_dir_phi 0.05284817183733315
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/76.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.0653266331658293
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.7340986251831054
+/B5/detector/setPositionY -2.601833373308181
+/B5/detector/setPositionZ -5.37872314453125e-05
+
+/B5/detector/setRotX 179.57864606421444
+/B5/detector/setRotY 4.400187906630669
+/B5/detector/setRotZ 179.7331297485214
+
+/B5/gun/set_dir_tetha 1.5708272946145494
+/B5/gun/set_dir_phi 0.056549243117157456
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.3878141185151005
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/77.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -1.0251256281407035
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.639426040649414
+/B5/detector/setPositionY -2.6004256308078757
+/B5/detector/setPositionZ 0.00232391357421875
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.3686008015317146
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.73923127112602
+/B5/detector/setRotY 4.4080681111745585
+/B5/detector/setRotZ 179.58235526171399
 
+/B5/gun/set_dir_tetha 1.5693814185857025
+/B5/gun/set_dir_phi 0.06066281305623864
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/78.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.9849246231155777
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.5449321746826172
+/B5/detector/setPositionY -2.5998175203800193
+/B5/detector/setPositionZ 0.005652236938476563
+
+/B5/detector/setRotX 179.8999357397289
+/B5/detector/setRotY 4.396399139995515
+/B5/detector/setRotZ 179.50121944045154
+
+/B5/gun/set_dir_tetha 1.5671454445586264
+/B5/gun/set_dir_phi 0.06475521220599834
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.348599699511502
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/79.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.9447236180904524
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.4473794937133788
+/B5/detector/setPositionY -2.6003233015537255
+/B5/detector/setPositionZ 0.009444046020507812
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.32777836849887
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.94592811316767
+/B5/detector/setRotY 4.369787549330512
+/B5/detector/setRotZ 179.55088676451743
 
+/B5/gun/set_dir_tetha 1.5642869093556289
+/B5/gun/set_dir_phi 0.06875844796410659
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/80.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.9045226130653266
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.347406768798828
+/B5/detector/setPositionY -2.60147915482521
+/B5/detector/setPositionZ 0.013053131103515626
+
+/B5/detector/setRotX -179.82858662934456
+/B5/detector/setRotY 4.351469111774848
+/B5/detector/setRotZ 179.6376864078935
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.3061044982084953
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5611348257443425
+/B5/gun/set_dir_phi 0.07298896837408979
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/81.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.8643216080402008
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.2489906311035157
+/B5/detector/setPositionY -2.60281074643135
+/B5/detector/setPositionZ 0.01587333679199219
+
+/B5/detector/setRotX -179.80012720322966
+/B5/detector/setRotY 4.341305898423206
+/B5/detector/setRotZ 179.71977981076395
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.2835462868884475
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5581263757511477
+/B5/gun/set_dir_phi 0.07765774909675376
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/82.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.8241206030150754
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.150778579711914
+/B5/detector/setPositionY -2.6036007702350608
+/B5/detector/setPositionZ 0.0178466796875
+
+/B5/detector/setRotX -179.7885571298066
+/B5/detector/setRotY 4.3337852155640935
+/B5/detector/setRotZ 179.86221677846908
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.2600728896738387
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5553433324665642
+/B5/gun/set_dir_phi 0.08357358400688214
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/83.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.7839195979899496
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 1.0495428085327148
+/B5/detector/setPositionY -2.60341892838478
+/B5/detector/setPositionZ 0.019019317626953126
+
+/B5/detector/setRotX -179.83733524298333
+/B5/detector/setRotY 4.343121156449001
+/B5/detector/setRotZ 179.9944584646029
+
+/B5/gun/set_dir_tetha 1.5527530019699436
+/B5/gun/set_dir_phi 0.09176360378898953
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.235654947127312
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/84.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.7437185929648242
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.9505596160888672
+/B5/detector/setPositionY -2.6024616539478296
+/B5/detector/setPositionZ 0.019492340087890626
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.2102651993770874
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.91583007874578
+/B5/detector/setRotY 4.366844270165675
+/B5/detector/setRotZ 179.95185767481033
 
+/B5/gun/set_dir_tetha 1.5504000932996398
+/B5/gun/set_dir_phi 0.10225361983942016
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/85.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.7035175879396984
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.8526861190795898
+/B5/detector/setPositionY -2.6013614714145654
+/B5/detector/setPositionZ 0.019533920288085937
+
+/B5/detector/setRotX -179.97596169637546
+/B5/detector/setRotY 4.3836936251262335
+/B5/detector/setRotZ -179.97135919507278
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.1838791891768334
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.54804332439739
+/B5/gun/set_dir_phi 0.11516786586597708
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/86.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.6633165829145726
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.7536251068115234
+/B5/detector/setPositionY -2.60044577717781
+/B5/detector/setPositionZ 0.01945037841796875
+
+/B5/detector/setRotX 179.96930410891028
+/B5/detector/setRotY 4.391000781639256
+/B5/detector/setRotZ 179.89523157783515
+
+/B5/gun/set_dir_tetha 1.545215104191629
+/B5/gun/set_dir_phi 0.13133999819084938
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.156476054148701
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/87.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.6231155778894473
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.6560871124267578
+/B5/detector/setPositionY -2.5999515593051905
+/B5/detector/setPositionZ 0.01947784423828125
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.128039404271995
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.956975337572
+/B5/detector/setRotY 4.387703655653099
+/B5/detector/setRotZ 179.93823801710118
 
+/B5/gun/set_dir_tetha 1.5414561307751586
+/B5/gun/set_dir_phi 0.15132681885440094
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/88.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.5829145728643215
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.5582393646240235
+/B5/detector/setPositionY -2.600014287233352
+/B5/detector/setPositionZ 0.019667434692382812
+
+/B5/detector/setRotX 179.9737266926248
+/B5/detector/setRotY 4.397710724583024
+/B5/detector/setRotZ 179.88421527205307
+
+/B5/gun/set_dir_tetha 1.5361308995876903
+/B5/gun/set_dir_phi 0.17722979872280537
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.0985582752314285
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/89.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.5427135678391961
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.459967041015625
+/B5/detector/setPositionY -2.6004911959171286
+/B5/detector/setPositionZ 0.02004241943359375
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.0680281415119195
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.92085605361774
+/B5/detector/setRotY 4.4141370725129345
+/B5/detector/setRotZ 179.85194679061254
 
+/B5/gun/set_dir_tetha 1.5282336746500684
+/B5/gun/set_dir_phi 0.2130556350362052
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/90.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.5025125628140703
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.36354217529296873
+/B5/detector/setPositionY -2.6013444244861597
+/B5/detector/setPositionZ 0.020732879638671875
+
+/B5/detector/setRotX 179.86955319484065
+/B5/detector/setRotY 4.425502769068737
+/B5/detector/setRotZ 179.7882201209979
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.0364519652252984
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5158122633043773
+/B5/gun/set_dir_phi 0.26499121567247574
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/91.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.4623115577889445
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.2669384002685547
+/B5/detector/setPositionY -2.6022180855274195
+/B5/detector/setPositionZ 0.02187652587890625
+
+/B5/detector/setRotX 179.84855296323218
+/B5/detector/setRotY 4.407237138909882
+/B5/detector/setRotZ 179.78093647460008
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 2.0038412478669834
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.4939946306140475
+/B5/gun/set_dir_phi 0.3511293991815576
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/92.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.42211055276381915
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.16774024963378906
+/B5/detector/setPositionY -2.6028952419757836
+/B5/detector/setPositionZ 0.02349510192871094
+
+/B5/detector/setRotX 179.94464993373313
+/B5/detector/setRotY 4.369018880949519
+/B5/detector/setRotZ 179.75254720782291
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.9702170430483696
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.4501635588433588
+/B5/gun/set_dir_phi 0.524759970066172
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/93.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.38190954773869334
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX 0.06941337585449218
+/B5/detector/setPositionY -2.6035765230655663
+/B5/detector/setPositionZ 0.025335693359375
+
+/B5/detector/setRotX -179.95489283525941
+/B5/detector/setRotY 4.333178847218607
+/B5/detector/setRotZ 179.8072817677565
+
+/B5/gun/set_dir_tetha 1.3606969753476585
+/B5/gun/set_dir_phi 0.9468520132380069
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.9356108795169988
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/94.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.341708542713568
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.027367401123046874
+/B5/detector/setPositionY -2.604179793596267
+/B5/detector/setPositionZ 0.027017593383789062
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.9000655365038426
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.99481318438154
+/B5/detector/setRotY 4.313527419269561
+/B5/detector/setRotZ 179.80373867453025
 
+/B5/gun/set_dir_tetha 1.3060409798600916
+/B5/gun/set_dir_phi 1.849001420407674
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/95.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.3015075376884422
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.12732162475585937
+/B5/detector/setPositionY -2.6041648924350733
+/B5/detector/setPositionZ 0.028655242919921876
+
+/B5/detector/setRotX -179.97672213278898
+/B5/detector/setRotY 4.289869446912694
+/B5/detector/setRotZ 179.77314176950017
+
+/B5/gun/set_dir_tetha 1.3928815190148573
+/B5/gun/set_dir_phi 2.4963651784005525
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.8636356088712556
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/96.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.2613065326633164
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.22631912231445311
+/B5/detector/setPositionY -2.6035311758518214
+/B5/detector/setPositionZ 0.030152511596679688
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.8263877990046766
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.95535656243004
+/B5/detector/setRotY 4.24503382192181
+/B5/detector/setRotZ 179.8287892294014
 
+/B5/gun/set_dir_tetha 1.4488440447932691
+/B5/gun/set_dir_phi 2.7386626062440516
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/97.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.22110552763819102
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.32427024841308594
+/B5/detector/setPositionY -2.6028129160404196
+/B5/detector/setPositionZ 0.031388473510742185
+
+/B5/detector/setRotX -179.96382877040008
+/B5/detector/setRotY 4.197776102172358
+/B5/detector/setRotZ 179.82175250832034
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.788400877115508
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.478338329770798
+/B5/gun/set_dir_phi 2.8504018001088354
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/98.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.18090452261306522
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.4235374450683594
+/B5/detector/setPositionY -2.6019497215747824
+/B5/detector/setPositionZ 0.03247337341308594
+
+/B5/detector/setRotX -179.97275944930496
+/B5/detector/setRotY 4.1585268021804
+/B5/detector/setRotZ 179.9193142883593
+
+/B5/gun/set_dir_tetha 1.4962385018777182
+/B5/gun/set_dir_phi 2.914097049022056
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.7497652624660283
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/99.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.14070351758793986
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.5232166290283203
+/B5/detector/setPositionY -2.6013474285602562
+/B5/detector/setPositionZ 0.033489227294921875
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.7105821952323528
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.94583149705625
+/B5/detector/setRotY 4.116995778997927
+/B5/detector/setRotZ 179.96561004765803
 
+/B5/gun/set_dir_tetha 1.5079809348750421
+/B5/gun/set_dir_phi 2.955230416862472
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/100.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.10050251256281406
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.6212772369384766
+/B5/detector/setPositionY -2.6009311974048606
+/B5/detector/setPositionZ 0.034311676025390626
+
+/B5/detector/setRotX -179.97359987601135
+/B5/detector/setRotY 4.0701097366003705
+/B5/detector/setRotZ 179.8801900371797
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.6709624916828216
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5163117004848883
+/B5/gun/set_dir_phi 2.983464059756958
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/101.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.06030150753768826
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.718990707397461
+/B5/detector/setPositionY -2.600167304277419
+/B5/detector/setPositionZ 0.03504524230957031
+
+/B5/detector/setRotX 179.984088890914
+/B5/detector/setRotY 4.028447293735123
+/B5/detector/setRotZ 179.9437989647559
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.6310249024958907
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5225546909390275
+/B5/gun/set_dir_phi 3.0036236423002793
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/102.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX -0.0201005025125629
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.816347885131836
+/B5/detector/setPositionY -2.5993252098560324
+/B5/detector/setPositionZ 0.03579254150390625
+
+/B5/detector/setRotX 179.9515007912062
+/B5/detector/setRotY 4.002959395651894
+/B5/detector/setRotZ 179.9185904578234
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.5908941228934876
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5273086995732188
+/B5/gun/set_dir_phi 3.018888812415659
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/103.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.020100502512562457
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -0.9152572631835938
+/B5/detector/setPositionY -2.5989150583744043
+/B5/detector/setPositionZ 0.036683273315429685
+
+/B5/detector/setRotX -179.98658478546042
+/B5/detector/setRotY 3.9836595591075032
+/B5/detector/setRotZ 179.8677485320408
+
+/B5/gun/set_dir_tetha 1.5309798723297898
+/B5/gun/set_dir_phi 3.031594166412149
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.550698530696306
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/104.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.06030150753768826
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.0122993469238282
+/B5/detector/setPositionY -2.5992540419101706
+/B5/detector/setPositionZ 0.037664031982421874
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.5105677510939024
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.90605359124865
+/B5/detector/setRotY 3.943081614740017
+/B5/detector/setRotZ 179.8156334155644
 
+/B5/gun/set_dir_tetha 1.5337897120622148
+/B5/gun/set_dir_phi 3.0423973861744553
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/105.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.10050251256281406
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.1099861145019532
+/B5/detector/setPositionY -2.599609833955764
+/B5/detector/setPositionZ 0.038965606689453126
+
+/B5/detector/setRotX 179.9106059145807
+/B5/detector/setRotY 3.8879786828471716
+/B5/detector/setRotZ 179.8171516679271
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.4706301619069715
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5358486729838943
+/B5/gun/set_dir_phi 3.0513953316030547
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/106.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.14070351758793986
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.206641387939453
+/B5/detector/setPositionY -2.5994726717472068
+/B5/detector/setPositionZ 0.04050178527832031
+
+/B5/detector/setRotX 179.96029819275685
+/B5/detector/setRotY 3.8323959628297217
+/B5/detector/setRotZ 179.6945676249485
+
+/B5/gun/set_dir_tetha 1.537358959592763
+/B5/gun/set_dir_phi 3.0584729199243035
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.4310104583574403
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/107.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.18090452261306567
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.3031196594238281
+/B5/detector/setPositionY -2.599279457330703
+/B5/detector/setPositionZ 0.042098617553710936
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.3918273911237644
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.98713479811875
+/B5/detector/setRotY 3.7908826148690498
+/B5/detector/setRotZ 179.74355267947203
 
+/B5/gun/set_dir_tetha 1.5385975013654152
+/B5/gun/set_dir_phi 3.064454158612938
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/108.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.22110552763819058
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.4017601013183594
+/B5/detector/setPositionY -2.598969560861587
+/B5/detector/setPositionZ 0.04360466003417969
+
+/B5/detector/setRotX 179.98202781736137
+/B5/detector/setRotY 3.72953904316353
+/B5/detector/setRotZ 179.78094271965654
+
+/B5/gun/set_dir_tetha 1.5397796814319806
+/B5/gun/set_dir_phi 3.0696430791227587
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.3531917764742856
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/109.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.2613065326633164
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.5011932373046875
+/B5/detector/setPositionY -2.5980373919010153
+/B5/detector/setPositionZ 0.04497222900390625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.3152048545851165
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.9828240385055
+/B5/detector/setRotY 3.6306850732036358
+/B5/detector/setRotZ 179.7361051271229
 
+/B5/gun/set_dir_tetha 1.5409164305405834
+/B5/gun/set_dir_phi 3.073775769970402
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/110.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.3015075376884422
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.599118423461914
+/B5/detector/setPositionY -2.596929150819778
+/B5/detector/setPositionZ 0.04613761901855469
+
+/B5/detector/setRotX -179.95667243840046
+/B5/detector/setRotY 3.533517597722949
+/B5/detector/setRotZ 179.84846421186614
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.2779570447185375
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5420121154902628
+/B5/gun/set_dir_phi 3.077226894816038
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/111.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.341708542713568
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.6965011596679687
+/B5/detector/setPositionY -2.5962214529514305
+/B5/detector/setPositionZ 0.04713783264160156
+
+/B5/detector/setRotX 179.9346268899244
+/B5/detector/setRotY 3.4452409771471557
+/B5/detector/setRotZ 179.86789078921123
+
+/B5/gun/set_dir_tetha 1.5430699521684053
+/B5/gun/set_dir_phi 3.0804966802889124
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.2415271170859505
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/112.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.3819095477386938
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.7968025207519531
+/B5/detector/setPositionY -2.595830518007278
+/B5/detector/setPositionZ 0.04822540283203125
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.2059817740727938
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.9906942685053
+/B5/detector/setRotY 3.354765450902308
+/B5/detector/setRotZ 179.893279829501
 
+/B5/gun/set_dir_tetha 1.544008160488509
+/B5/gun/set_dir_phi 3.083682556140263
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/113.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.4221105527638196
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.8932518005371093
+/B5/detector/setPositionY -2.595880848169326
+/B5/detector/setPositionZ 0.049248123168945314
+
+/B5/detector/setRotX -179.9802633881044
+/B5/detector/setRotY 3.248353804848067
+/B5/detector/setRotZ 179.98144671926522
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.1713756105414233
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5448289596712181
+/B5/gun/set_dir_phi 3.086653118017936
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/114.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.4623115577889445
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -1.9922824859619142
+/B5/detector/setPositionY -2.5962907135486595
+/B5/detector/setPositionZ 0.05008010864257813
+
+/B5/detector/setRotX -179.5051265993024
+/B5/detector/setRotY 3.126718930012225
+/B5/detector/setRotZ 179.91271002080376
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.1377514057228097
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5456985345527603
+/B5/gun/set_dir_phi 3.089584084089068
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/115.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.5025125628140703
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.0905681610107423
+/B5/detector/setPositionY -2.597117692232131
+/B5/detector/setPositionZ 0.04855766296386719
+
+/B5/detector/setRotX -178.22878168745993
+/B5/detector/setRotY 3.0141376992842206
+/B5/detector/setRotZ 179.84976707127166
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.1051406883644945
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.547601545458414
+/B5/gun/set_dir_phi 3.0924197187169784
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/116.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.5427135678391961
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.190478515625
+/B5/detector/setPositionY -2.5981178104877465
+/B5/detector/setPositionZ 0.03996200561523437
+
+/B5/detector/setRotX -178.04360760199395
+/B5/detector/setRotY 2.9636452318521616
+/B5/detector/setRotZ 179.7362205005534
+
+/B5/gun/set_dir_tetha 1.552574540082745
+/B5/gun/set_dir_phi 3.0951147646497543
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.0735645120778734
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/117.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.5829145728643219
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.290513610839844
+/B5/detector/setPositionY -2.5992774069309226
+/B5/detector/setPositionZ 0.023622894287109376
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.0430343783583644
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.007088645155
+/B5/detector/setRotY 3.083074213547598
+/B5/detector/setRotZ 179.86793840022696
 
+/B5/gun/set_dir_tetha 1.5604932871492196
+/B5/gun/set_dir_phi 3.097647162262268
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/118.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.6231155778894477
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.3895092010498047
+/B5/detector/setPositionY -2.600329238176345
+/B5/detector/setPositionZ 0.0033161163330078123
+
+/B5/detector/setRotX -179.75642704263498
+/B5/detector/setRotY 3.45974700043793
+/B5/detector/setRotZ 179.92687249355998
+
+/B5/gun/set_dir_tetha 1.5694097520319235
+/B5/gun/set_dir_phi 3.099905006123252
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 1.013553249317798
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/119.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.6633165829145726
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.4868507385253906
+/B5/detector/setPositionY -2.6011608421802515
+/B5/detector/setPositionZ -0.017753219604492186
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.9851165994410918
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.6443060447733
+/B5/detector/setRotY 4.048844597404857
+/B5/detector/setRotZ -179.85882966470902
 
+/B5/gun/set_dir_tetha 1.577929410092703
+/B5/gun/set_dir_phi 3.1018688526919225
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/120.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.7035175879396984
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.586586761474609
+/B5/detector/setPositionY -2.6016601383686058
+/B5/detector/setPositionZ -0.037864303588867186
+
+/B5/detector/setRotX 177.29805458883826
+/B5/detector/setRotY 4.783922738212067
+/B5/detector/setRotZ -179.86728470520177
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.9577134644129599
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.585423429085195
+/B5/gun/set_dir_phi 3.1035917938690147
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/121.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.7437185929648242
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.6809112548828127
+/B5/detector/setPositionY -2.602429634332656
+/B5/detector/setPositionZ -0.04848289489746094
+
+/B5/detector/setRotX 177.51176768589067
+/B5/detector/setRotY 5.46836398967023
+/B5/detector/setRotZ -179.99372181181153
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.9313274542127057
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5888668778306827
+/B5/gun/set_dir_phi 3.1052142317042595
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/122.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.78391959798995
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.776581573486328
+/B5/detector/setPositionY -2.6027905285358424
+/B5/detector/setPositionZ -0.049021148681640626
+
+/B5/detector/setRotX 178.4291017299148
+/B5/detector/setRotY 5.927904438017296
+/B5/detector/setRotZ 179.83594267504344
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.9059377064624806
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5884389021780707
+/B5/gun/set_dir_phi 3.106596461178279
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/123.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.8241206030150758
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.8689346313476562
+/B5/detector/setPositionY -2.6024704754352563
+/B5/detector/setPositionZ -0.0431182861328125
+
+/B5/detector/setRotX 179.35014076027502
+/B5/detector/setRotY 5.991296544858233
+/B5/detector/setRotZ 179.49461258979588
+
+/B5/gun/set_dir_tetha 1.5858158924759604
+/B5/gun/set_dir_phi 3.1076107081197764
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.8815197639159542
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/124.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.8643216080402008
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -2.964124298095703
+/B5/detector/setPositionY -2.601825124025344
+/B5/detector/setPositionZ -0.03435592651367188
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.8580463667013457
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.88065039245586
+/B5/detector/setRotY 5.712891611850029
+/B5/detector/setRotZ 179.37285848959522
 
+/B5/gun/set_dir_tetha 1.5823800386925186
+/B5/gun/set_dir_phi 3.108483718089534
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/125.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.9045226130653266
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.061834716796875
+/B5/detector/setPositionY -2.6012278854846946
+/B5/detector/setPositionZ -0.0259765625
+
+/B5/detector/setRotX -179.36596283688658
+/B5/detector/setRotY 5.266117377085665
+/B5/detector/setRotZ 179.42659636276363
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.8354881553812978
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5792756984532432
+/B5/gun/set_dir_phi 3.1093447099274742
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/126.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.9447236180904524
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.160289764404297
+/B5/detector/setPositionY -2.601144486665725
+/B5/detector/setPositionZ -0.020276641845703124
+
+/B5/detector/setRotX -179.0576515253558
+/B5/detector/setRotY 4.816529934224603
+/B5/detector/setRotZ 179.54529999746876
+
+/B5/gun/set_dir_tetha 1.577209172690633
+/B5/gun/set_dir_phi 3.110322328019116
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.813814285090923
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/127.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 0.9849246231155782
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.2590850830078124
+/B5/detector/setPositionY -2.6011254608631127
+/B5/detector/setPositionZ -0.018206405639648437
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.7929929540782905
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.17228667125326
+/B5/detector/setRotY 4.449317170487845
+/B5/detector/setRotZ 179.69243173879715
 
+/B5/gun/set_dir_tetha 1.576380054504653
+/B5/gun/set_dir_phi 3.111263828601683
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/128.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.025125628140704
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.360559844970703
+/B5/detector/setPositionY -2.6004864275455466
+/B5/detector/setPositionZ -0.01950492858886719
+
+/B5/detector/setRotX -179.39833721248496
+/B5/detector/setRotY 4.182718461949529
+/B5/detector/setRotZ 179.84957424077461
+
+/B5/gun/set_dir_tetha 1.5765977898288928
+/B5/gun/set_dir_phi 3.1119891038529626
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.7729918520580785
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/129.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.0653266331658289
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.4652030944824217
+/B5/detector/setPositionY -2.5997700273990625
+/B5/detector/setPositionZ -0.02352142333984375
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.7537785350746932
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.65998443496596
+/B5/detector/setRotY 4.07988847188927
+/B5/detector/setRotZ -179.92640947651685
 
+/B5/gun/set_dir_tetha 1.577581276656092
+/B5/gun/set_dir_phi 3.1126760123979507
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/130.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.1055276381909547
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.564439392089844
+/B5/detector/setPositionY -2.599481087923049
+/B5/detector/setPositionZ -0.029107666015625
+
+/B5/detector/setRotX -179.62924563878678
+/B5/detector/setRotY 4.136949780897323
+/B5/detector/setRotZ -176.3136503599692
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.735320734227669
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.578959027658416
+/B5/gun/set_dir_phi 3.113399642778157
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/131.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.1457286432160805
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.647089385986328
+/B5/detector/setPositionY -2.5994602501392357
+/B5/detector/setPositionZ -0.03584709167480469
+
+/B5/detector/setRotX -179.87830276692185
+/B5/detector/setRotY 4.38106252340103
+/B5/detector/setRotZ -175.35803868934414
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.7175866057955044
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5806212369401367
+/B5/gun/set_dir_phi 3.1140325138273655
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/132.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.1859296482412063
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.714094543457031
+/B5/detector/setPositionY -2.5996450245380394
+/B5/detector/setPositionZ -0.043383026123046876
+
+/B5/detector/setRotX 179.7848879466285
+/B5/detector/setRotY 4.8679390898587815
+/B5/detector/setRotZ -175.84415472501672
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.7005449301380442
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.5824721812958669
+/B5/gun/set_dir_phi 3.1145791883933844
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/133.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.226130653266332
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.761740875244141
+/B5/detector/setPositionY -2.600476270914077
+/B5/detector/setPositionZ -0.049770355224609375
+
+/B5/detector/setRotX 179.44268537690442
+/B5/detector/setRotY 5.642140992380419
+/B5/detector/setRotZ -176.6941105283193
+
+/B5/gun/set_dir_tetha 1.5840215984263257
+/B5/gun/set_dir_phi 3.1151419965314053
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6841652663720612
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/134.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.266331658291457
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.795819091796875
+/B5/detector/setPositionY -2.601374584436416
+/B5/detector/setPositionZ -0.05386428833007813
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6684180692865836
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.20738675200528
+/B5/detector/setRotY 6.7253836229860235
+/B5/detector/setRotZ -177.770577166756
 
+/B5/gun/set_dir_tetha 1.5849810134130484
+/B5/gun/set_dir_phi 3.1156158543189547
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/135.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.3065326633165828
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.820603942871094
+/B5/detector/setPositionY -2.60155718922615
+/B5/detector/setPositionZ -0.054764938354492185
+
+/B5/detector/setRotX 179.16663131481968
+/B5/detector/setRotY 7.8884066009196125
+/B5/detector/setRotZ -178.5455904953941
+
+/B5/gun/set_dir_tetha 1.585124695385278
+/B5/gun/set_dir_phi 3.115832057762517
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6532747743599
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/136.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.3467336683417086
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.8392875671386717
+/B5/detector/setPositionY -2.601418620347976
+/B5/detector/setPositionZ -0.05225296020507812
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6387078561075349
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.29635134844432
+/B5/detector/setRotY 8.700288753321361
+/B5/detector/setRotZ -179.67320580632293
 
+/B5/gun/set_dir_tetha 1.5844010697601145
+/B5/gun/set_dir_phi 3.1159212962550957
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/137.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.3869346733668344
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.8560455322265623
+/B5/detector/setPositionY -2.60116747021675
+/B5/detector/setPositionZ -0.04892921447753906
+
+/B5/detector/setRotX -173.17805055172292
+/B5/detector/setRotY 2.844005149136398
+/B5/detector/setRotZ 178.63876707558546
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6246908643638394
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.583480442527601
+/B5/gun/set_dir_phi 3.1159677236858143
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/138.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.4271356783919602
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.8801544189453123
+/B5/detector/setPositionY -2.6003986895084372
+/B5/detector/setPositionZ -0.07621994018554687
+
+/B5/detector/setRotX -164.82234403682992
+/B5/detector/setRotY -19.774104437509784
+/B5/detector/setRotZ 172.62583943796602
+
+/B5/gun/set_dir_tetha 1.5904308674089291
+/B5/gun/set_dir_phi 3.115928870146349
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.6111984425019362
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/139.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.4673366834170851
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9111618041992187
+/B5/detector/setPositionY -2.600943094491958
+/B5/detector/setPositionZ -0.15756988525390625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.598206331041522
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -168.3237458557797
+/B5/detector/setRotY -48.03598075086134
+/B5/detector/setRotZ 171.044162098351
 
+/B5/gun/set_dir_tetha 1.6110488905157956
+/B5/gun/set_dir_phi 3.116271345284644
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/140.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.507537688442211
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9428733825683593
+/B5/detector/setPositionY -2.6008411943912497
+/B5/detector/setPositionZ -0.27256202697753906
+
+/B5/detector/setRotX -171.37488257390928
+/B5/detector/setRotY -71.62202095893424
+/B5/detector/setRotZ 173.16121729247877
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.585691359589055
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.639792548396162
+/B5/gun/set_dir_phi 3.1164490846555815
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/141.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.5477386934673367
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.968585968017578
+/B5/detector/setPositionY -2.600238281488418
+/B5/detector/setPositionZ -0.3971721649169922
+
+/B5/detector/setRotX 171.59823396009162
+/B5/detector/setRotY -86.79134822445305
+/B5/detector/setRotZ -169.1916370662995
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5736314296030898
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.670511916682793
+/B5/gun/set_dir_phi 3.1164600966152696
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/142.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.5879396984924625
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9848373413085936
+/B5/detector/setPositionY -2.600046616792678
+/B5/detector/setPositionZ -0.5217529296875
+
+/B5/detector/setRotX 141.58207667485806
+/B5/detector/setRotY -86.67792018691088
+/B5/detector/setRotZ -138.89603130765963
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5620054900786914
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.700949773181618
+/B5/gun/set_dir_phi 3.116514483586447
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/143.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.6281407035175883
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9899879455566407
+/B5/detector/setPositionY -2.6002824842929835
+/B5/detector/setPositionZ -0.6365146636962891
+
+/B5/detector/setRotX 160.90104503607643
+/B5/detector/setRotY -81.83847678725006
+/B5/detector/setRotZ -158.96249430374252
+
+/B5/gun/set_dir_tetha 1.7289427426041442
+/B5/gun/set_dir_phi 3.116605920856532
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5507935078967237
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/144.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.6683417085427132
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.986577606201172
+/B5/detector/setPositionY -2.600554400682449
+/B5/detector/setPositionZ -0.7379604339599609
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5399764342827402
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 164.7785346573675
+/B5/detector/setRotY -80.2494287923127
+/B5/detector/setRotZ -163.9657282739621
 
+/B5/gun/set_dir_tetha 1.7537800163641564
+/B5/gun/set_dir_phi 3.116652720171457
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/145.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.708542713567839
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9788978576660154
+/B5/detector/setPositionY -2.600391894578933
+/B5/detector/setPositionZ -0.8310419082641601
+
+/B5/detector/setRotX 167.52007160827887
+/B5/detector/setRotY -82.03360351905627
+/B5/detector/setRotZ -167.8034571835226
+
+/B5/gun/set_dir_tetha 1.776635978370292
+/B5/gun/set_dir_phi 3.1165637866835394
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5295361685619949
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/146.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.7487437185929648
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9719757080078124
+/B5/detector/setPositionY -2.6001860201358786
+/B5/detector/setPositionZ -0.9154634475708008
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5194555201772437
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 174.00415560097673
+/B5/detector/setRotY -83.63022064356885
+/B5/detector/setRotZ -175.27028470342702
 
+/B5/gun/set_dir_tetha 1.7972520739370181
+/B5/gun/set_dir_phi 3.116468386852663
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/147.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.7889447236180906
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9698387145996095
+/B5/detector/setPositionY -2.6001064598560326
+/B5/detector/setPositionZ -0.9957605361938476
+
+/B5/detector/setRotX -176.03071663225722
+/B5/detector/setRotY -83.64286516982037
+/B5/detector/setRotZ 174.3380138468396
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5097181697500296
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.8164827334016067
+/B5/gun/set_dir_phi 3.116434839454838
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/148.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.8291457286432165
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.97451171875
+/B5/detector/setPositionY -2.5999870359897606
+/B5/detector/setPositionZ -1.0793916702270507
+
+/B5/detector/setRotX -169.21489456495158
+/B5/detector/setRotY -82.99313845865827
+/B5/detector/setRotZ 167.7600268696572
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.5003086298097738
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.835898720842347
+/B5/gun/set_dir_phi 3.1164343776809798
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/149.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.8693467336683414
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9851806640625
+/B5/detector/setPositionY -2.6000864088535303
+/B5/detector/setPositionZ -1.1656763076782226
+
+/B5/detector/setRotX -166.34337733558925
+/B5/detector/setRotY -82.80618384767233
+/B5/detector/setRotZ 165.48342217566582
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4912122056842684
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.8552761521433698
+/B5/gun/set_dir_phi 3.116526621894846
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/150.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.9095477386934672
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.00006103515625
+/B5/detector/setPositionY -2.600212866067886
+/B5/detector/setPositionZ -1.2611753463745117
+
+/B5/detector/setRotX -170.3460106408417
+/B5/detector/setRotY -83.26525838358879
+/B5/detector/setRotZ 170.35879539023352
+
+/B5/gun/set_dir_tetha 1.8761308694130774
+/B5/gun/set_dir_phi 3.1166514237341114
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4824149569364532
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/151.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.949748743718593
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.014504241943359
+/B5/detector/setPositionY -2.600293141603469
+/B5/detector/setPositionZ -1.3567947387695312
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4739036596424732
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -171.18987785673727
+/B5/detector/setRotY -83.68740648337847
+/B5/detector/setRotZ 171.98177454375914
 
+/B5/gun/set_dir_tetha 1.8966233943677477
+/B5/gun/set_dir_phi 3.1167611032245683
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/152.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 1.9899497487437188
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.026502990722657
+/B5/detector/setPositionY -2.6003179371356957
+/B5/detector/setPositionZ -1.4592777252197267
+
+/B5/detector/setRotX -172.85058133529571
+/B5/detector/setRotY -83.9942363463745
+/B5/detector/setRotZ 174.11571462662613
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4656657697320717
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 1.9183928358321767
+/B5/gun/set_dir_phi 3.1168412238554426
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/153.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.0301507537688446
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0332801818847654
+/B5/detector/setPositionY -2.600276190042495
+/B5/detector/setPositionZ -1.5621883392333984
+
+/B5/detector/setRotX -175.77653933954122
+/B5/detector/setRotY -84.19296131232183
+/B5/detector/setRotZ 177.11715421706475
+
+/B5/gun/set_dir_tetha 1.9402251366744512
+/B5/gun/set_dir_phi 3.116872452839615
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.457689387551922
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/154.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.0703517587939704
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.034597778320313
+/B5/detector/setPositionY -2.6002410471439354
+/B5/detector/setPositionZ -1.6668218612670898
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4499632237633739
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -179.34678682159773
+/B5/detector/setRotY -84.30529430940469
+/B5/detector/setRotZ -179.46322894606854
 
+/B5/gun/set_dir_tetha 1.9624641402551228
+/B5/gun/set_dir_phi 3.1168718174734953
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/155.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.1105527638190953
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.031137847900391
+/B5/detector/setPositionY -2.600297719240188
+/B5/detector/setPositionZ -1.769797134399414
+
+/B5/detector/setRotX 177.06808500880862
+/B5/detector/setRotY -84.32684800799206
+/B5/detector/setRotZ -176.2238582272592
+
+/B5/gun/set_dir_tetha 1.9843790970111563
+/B5/gun/set_dir_phi 3.116864658190871
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4424765666464317
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/156.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.150753768844221
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.024143981933594
+/B5/detector/setPositionY -2.6001961767673487
+/B5/detector/setPositionZ -1.871629524230957
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4352192508500313
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 175.53954477783176
+/B5/detector/setRotY -84.239960291315
+/B5/detector/setRotZ -175.056043861346
 
+/B5/gun/set_dir_tetha 2.0060186957619393
+/B5/gun/set_dir_phi 3.116796481275086
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/157.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.190954773869347
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.014892578125
+/B5/detector/setPositionY -2.5999467909336085
+/B5/detector/setPositionZ -1.9721588134765624
+
+/B5/detector/setRotX 174.93324081052475
+/B5/detector/setRotY -84.05192633806382
+/B5/detector/setRotZ -174.79463203916467
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4281816276034772
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.027265099731311
+/B5/gun/set_dir_phi 3.1166772909137532
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/158.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.2311557788944727
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.004852294921875
+/B5/detector/setPositionY -2.6000468313694
+/B5/detector/setPositionZ -2.070628547668457
+
+/B5/detector/setRotX 177.04827721388986
+/B5/detector/setRotY -83.80267469597162
+/B5/detector/setRotZ -177.1923567817338
+
+/B5/gun/set_dir_tetha 2.047847872864336
+/B5/gun/set_dir_phi 3.1166398175476213
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4213545363841112
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/159.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.2713567839195985
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9955673217773438
+/B5/detector/setPositionY -2.6005919039249417
+/B5/detector/setPositionZ -2.1636188507080076
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4147292780209588
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.04465107512917
+/B5/detector/setRotY -83.50693833489944
+/B5/detector/setRotZ -179.3320232184151
 
+/B5/gun/set_dir_tetha 2.0669643747694635
+/B5/gun/set_dir_phi 3.116718190297737
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/160.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.3115577889447234
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9877105712890626
+/B5/detector/setPositionY -2.601224929094314
+/B5/detector/setPositionZ -2.256675910949707
+
+/B5/detector/setRotX 179.50799574246773
+/B5/detector/setRotY -83.15802836653612
+/B5/detector/setRotZ 177.8533479820239
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.40829758920242415
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.0856391733771282
+/B5/gun/set_dir_phi 3.1168278479344
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/161.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.351758793969849
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.988086700439453
+/B5/detector/setPositionY -2.6014164507389066
+/B5/detector/setPositionZ -2.351949119567871
+
+/B5/detector/setRotX -178.25608782288498
+/B5/detector/setRotY -82.81278074950184
+/B5/detector/setRotZ 176.34487659600117
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.4020516183474074
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.103506681188573
+/B5/gun/set_dir_phi 3.1168781766839118
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/162.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.391959798994975
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -3.9967422485351562
+/B5/detector/setPositionY -2.601315480470657
+/B5/detector/setPositionZ -2.445782279968262
+
+/B5/detector/setRotX -176.24942832487224
+/B5/detector/setRotY -82.67828431176987
+/B5/detector/setRotZ 175.15037928588413
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3959839027929551
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.1198162285816586
+/B5/gun/set_dir_phi 3.116906430123949
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/163.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.432160804020101
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.00982894897461
+/B5/detector/setPositionY -2.6012190401554105
+/B5/detector/setPositionZ -2.53926420211792
+
+/B5/detector/setRotX -174.60159250071123
+/B5/detector/setRotY -82.84439065786069
+/B5/detector/setRotZ 174.2862333115828
+
+/B5/gun/set_dir_tetha 2.1351762636143
+/B5/gun/set_dir_phi 3.116962928478256
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3900873472472285
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/164.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.4723618090452266
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0248558044433596
+/B5/detector/setPositionY -2.601299268007278
+/B5/detector/setPositionZ -2.6384065628051756
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3843552034538313
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -174.68968240948033
+/B5/detector/setRotY -83.25911075666286
+/B5/detector/setRotZ 175.0014277135763
 
+/B5/gun/set_dir_tetha 2.150910192166299
+/B5/gun/set_dir_phi 3.117074768035816
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/165.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.5125628140703515
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.038050842285156
+/B5/detector/setPositionY -2.6013360798358915
+/B5/detector/setPositionZ -2.7353859901428224
+
+/B5/detector/setRotX -174.14409722261593
+/B5/detector/setRotY -83.73972105703763
+/B5/detector/setRotZ 174.92573261103172
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.37878105101203763
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.166056138416156
+/B5/gun/set_dir_phi 3.1171639633678954
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/166.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.5527638190954773
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.048712921142578
+/B5/detector/setPositionY -2.6010597050189967
+/B5/detector/setPositionZ -2.8379467010498045
+
+/B5/detector/setRotX -175.46026559606003
+/B5/detector/setRotY -84.25921554933461
+/B5/detector/setRotZ 176.28879011355187
+
+/B5/gun/set_dir_tetha 2.1820195234315882
+/B5/gun/set_dir_phi 3.117160047825667
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3733587792969463
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/167.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.592964824120603
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.055762481689453
+/B5/detector/setPositionY -2.600547438859939
+/B5/detector/setPositionZ -2.939229965209961
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3680825704238441
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -177.7984817048183
+/B5/detector/setRotY -84.72507037959086
+/B5/detector/setRotZ 178.52399223217378
 
+/B5/gun/set_dir_tetha 2.1977681005583367
+/B5/gun/set_dir_phi 3.1170762684795146
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/168.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.633165829145729
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.059868621826172
+/B5/detector/setPositionY -2.5998399555683136
+/B5/detector/setPositionZ -3.041374397277832
+
+/B5/detector/setRotX -179.78562508402194
+/B5/detector/setRotY -85.12689246781801
+/B5/detector/setRotZ -179.72510054386385
+
+/B5/gun/set_dir_tetha 2.2135952175273546
+/B5/gun/set_dir_phi 3.1169268970114885
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3629468832019083
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/169.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.6733668341708547
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0613548278808596
+/B5/detector/setPositionY -2.5989979565143586
+/B5/detector/setPositionZ -3.1435699462890625
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3579464380236758
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.7510420240631
+/B5/detector/setRotY -85.46316959224632
+/B5/detector/setRotZ -177.7375932789049
 
+/B5/gun/set_dir_tetha 2.2293442286912812
+/B5/gun/set_dir_phi 3.1167287268331285
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/170.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.7135678391959797
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.05657958984375
+/B5/detector/setPositionY -2.5987277567386626
+/B5/detector/setPositionZ -3.2436012744903566
+
+/B5/detector/setRotX 177.05566110615388
+/B5/detector/setRotY -85.69240141616275
+/B5/detector/setRotZ -176.07274994032696
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3530762026383364
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.245135397324572
+/B5/gun/set_dir_phi 3.116632903720803
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/171.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.7537688442211055
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0474090576171875
+/B5/detector/setPositionY -2.598716217279434
+/B5/detector/setPositionZ -3.34281210899353
+
+/B5/detector/setRotX 176.70067720299434
+/B5/detector/setRotY -85.62871901058278
+/B5/detector/setRotZ -176.3866888698892
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3483313787587708
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2609863362828913
+/B5/gun/set_dir_phi 3.1165735247332944
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/172.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.7939698492462313
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.036719512939453
+/B5/detector/setPositionY -2.59902463555336
+/B5/detector/setPositionZ -3.4420598983764648
+
+/B5/detector/setRotX 175.07277640034596
+/B5/detector/setRotY -85.15177987860763
+/B5/detector/setRotZ -175.4505488350847
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.34370738945428303
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2766940922432086
+/B5/gun/set_dir_phi 3.1165836551779433
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/173.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.834170854271357
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.027778625488281
+/B5/detector/setPositionY -2.5997678101062776
+/B5/detector/setPositionZ -3.5342382431030273
+
+/B5/detector/setRotX 154.06268129137266
+/B5/detector/setRotY -83.81808424824285
+/B5/detector/setRotZ -154.74676451207398
+
+/B5/gun/set_dir_tetha 2.2908677605682874
+/B5/gun/set_dir_phi 3.116712560496223
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.33919986728309937
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/174.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.874371859296483
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.021009063720703
+/B5/detector/setPositionY -2.6006955921649935
+/B5/detector/setPositionZ -3.618130254745483
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3348046431208876
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 148.73952843258473
+/B5/detector/setRotY -82.49017929082055
+/B5/detector/setRotZ -149.50974090027916
 
+/B5/gun/set_dir_tetha 2.3033529511506172
+/B5/gun/set_dir_phi 3.116901282674208
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/175.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.914572864321608
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.016600036621094
+/B5/detector/setPositionY -2.6014478743076324
+/B5/detector/setPositionZ -3.6842086791992186
+
+/B5/detector/setRotX 150.79274542916187
+/B5/detector/setRotY -81.7157386630297
+/B5/detector/setRotZ -151.50826033873895
+
+/B5/gun/set_dir_tetha 2.3129081905211404
+/B5/gun/set_dir_phi 3.1170613696746305
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.33051773564373954
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/176.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.9547738693467336
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.014060974121094
+/B5/detector/setPositionY -2.6017298281192778
+/B5/detector/setPositionZ -3.735464000701904
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.32633534142623744
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 157.95640191413065
+/B5/detector/setRotY -81.42253958262313
+/B5/detector/setRotZ -158.63477444330624
 
+/B5/gun/set_dir_tetha 2.3201103630614477
+/B5/gun/set_dir_phi 3.1171160581780604
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/177.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 2.9949748743718594
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.013497924804687
+/B5/detector/setPositionY -2.6016633808612823
+/B5/detector/setPositionZ -3.7719369411468504
+
+/B5/detector/setRotX 164.93017387287398
+/B5/detector/setRotY -81.15006029390979
+/B5/detector/setRotZ -165.68478408623508
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.32225382561736327
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.3250274005675755
+/B5/gun/set_dir_phi 3.117096079733817
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/178.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.035175879396985
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.015220642089844
+/B5/detector/setPositionY -2.601364380121231
+/B5/detector/setPositionZ -3.8000998735427856
+
+/B5/detector/setRotX 172.47498824732156
+/B5/detector/setRotY -80.87539004780147
+/B5/detector/setRotZ -173.1442320668896
+
+/B5/gun/set_dir_tetha 2.3285253277350546
+/B5/gun/set_dir_phi 3.117032163655249
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.3182697131590918
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/179.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.075376884422111
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.019156646728516
+/B5/detector/setPositionY -2.60091627240181
+/B5/detector/setPositionZ -3.8219735860824584
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.31437968051452564
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 177.55935782349806
+/B5/detector/setRotY -80.72135027978055
+/B5/detector/setRotZ -178.0872051284139
 
+/B5/gun/set_dir_tetha 2.330900812165514
+/B5/gun/set_dir_phi 3.1169447808006345
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/180.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.115577889447236
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0251914978027346
+/B5/detector/setPositionY -2.6004702150821686
+/B5/detector/setPositionZ -3.842895483970642
+
+/B5/detector/setRotX -179.87029645116786
+/B5/detector/setRotY -80.91136624134336
+/B5/detector/setRotZ 179.60647532986175
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.31058054787436956
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.3328769547245303
+/B5/gun/set_dir_phi 3.1168709706872737
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/181.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.1557788944723617
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.031992340087891
+/B5/detector/setPositionY -2.5931046307086945
+/B5/detector/setPositionZ -3.8618694305419923
+
+/B5/detector/setRotX 157.4957184899565
+/B5/detector/setRotY -80.24868575543086
+/B5/detector/setRotZ -157.17956044567634
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.30686927181239937
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.334471042432336
+/B5/gun/set_dir_phi 3.115087063766507
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/182.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.1959798994974875
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.036555480957031
+/B5/detector/setPositionY -2.527322918176651
+/B5/detector/setPositionZ -3.8664482951164247
+
+/B5/detector/setRotX 168.23891225952022
+/B5/detector/setRotY -80.68267386722036
+/B5/detector/setRotZ -167.90141766451381
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.30324293836235383
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.334216796470284
+/B5/gun/set_dir_phi 3.098840394645476
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/183.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.2361809045226133
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.038235473632812
+/B5/detector/setPositionY -2.406630665063858
+/B5/detector/setPositionZ -3.860026443004608
+
+/B5/detector/setRotX 172.8549903162456
+/B5/detector/setRotY -80.7184731553804
+/B5/detector/setRotZ -172.3668290834312
+
+/B5/gun/set_dir_tetha 2.332320707576919
+/B5/gun/set_dir_phi 3.069072153437757
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2996987564903613
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/184.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.276381909547739
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.037711334228516
+/B5/detector/setPositionY -2.2708888590335845
+/B5/detector/setPositionZ -3.8487080216407774
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.29623405193861363
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.78287778899264
+/B5/detector/setRotY -80.78913502987415
+/B5/detector/setRotZ -179.5467927024739
 
+/B5/gun/set_dir_tetha 2.329429212244773
+/B5/gun/set_dir_phi 3.035714242133986
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/185.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.316582914572864
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0362396240234375
+/B5/detector/setPositionY -2.1280182898044586
+/B5/detector/setPositionZ -3.836715269088745
+
+/B5/detector/setRotX -174.85743910500466
+/B5/detector/setRotY -80.76573785419896
+/B5/detector/setRotZ 174.88263206568504
+
+/B5/gun/set_dir_tetha 2.3258938255972583
+/B5/gun/set_dir_phi 3.00081847492623
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.29284626141750936
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/186.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.35678391959799
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0349983215332035
+/B5/detector/setPositionY -1.9902810156345367
+/B5/detector/setPositionZ -3.8280993819236757
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2895329271249164
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -174.35348063351083
+/B5/detector/setRotY -80.74311855752893
+/B5/detector/setRotZ 174.23940470272552
 
+/B5/gun/set_dir_tetha 2.322284628257847
+/B5/gun/set_dir_phi 2.967482811829117
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/187.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.3969849246231156
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.034475708007813
+/B5/detector/setPositionY -1.8523592054843903
+/B5/detector/setPositionZ -3.8232870221138002
+
+/B5/detector/setRotX -174.21366368328333
+/B5/detector/setRotY -80.69075017756231
+/B5/detector/setRotZ 174.05507557998155
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.28629169157255013
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.3185483830147815
+/B5/gun/set_dir_phi 2.934505290774133
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/188.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.4371859296482414
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.034746551513672
+/B5/detector/setPositionY -1.718706613779068
+/B5/detector/setPositionZ -3.8222320914268493
+
+/B5/detector/setRotX -175.65295745062107
+/B5/detector/setRotY -80.67073799360698
+/B5/detector/setRotZ 175.6232715645387
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2831202927007258
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.3148203172181283
+/B5/gun/set_dir_phi 2.903014090995838
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/189.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.4773869346733672
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.035447692871093
+/B5/detector/setPositionY -1.5812847197055817
+/B5/detector/setPositionZ -3.824247348308563
+
+/B5/detector/setRotX -176.71188432917015
+/B5/detector/setRotY -80.68436848471268
+/B5/detector/setRotZ 176.77225570263806
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.28001655926393604
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.310868398535723
+/B5/gun/set_dir_phi 2.871161750739109
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/190.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.517587939698492
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.036032867431641
+/B5/detector/setPositionY -1.4466201841831208
+/B5/detector/setPositionZ -3.8284775257110595
+
+/B5/detector/setRotX -178.61104314529885
+/B5/detector/setRotY -80.69724190533918
+/B5/detector/setRotZ 178.75239599934454
+
+/B5/gun/set_dir_tetha 2.306860136076799
+/B5/gun/set_dir_phi 2.8404875855424847
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2769784064708192
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/191.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.557788944723618
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.036062622070313
+/B5/detector/setPositionY -1.3138335287570952
+/B5/detector/setPositionZ -3.833621847629548
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.27400383186313226
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 179.30851391666994
+/B5/detector/setRotY -80.68490988604651
+/B5/detector/setRotZ -179.09859027214074
 
+/B5/gun/set_dir_tetha 2.3026918825591545
+/B5/gun/set_dir_phi 2.810769161801227
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/192.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.5979899497487438
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0351097106933596
+/B5/detector/setPositionY -1.1772486746311188
+/B5/detector/setPositionZ -3.8384516954422003
+
+/B5/detector/setRotX 177.8484094001374
+/B5/detector/setRotY -80.66650549043153
+/B5/detector/setRotZ -177.61395287947948
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2710909114193227
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2980582193978694
+/B5/gun/set_dir_phi 2.780741028986603
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/193.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.6381909547738696
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.033060455322266
+/B5/detector/setPositionY -1.042081743478775
+/B5/detector/setPositionZ -3.8417155742645273
+
+/B5/detector/setRotX 177.23944951687534
+/B5/detector/setRotY -80.6390595207628
+/B5/detector/setRotZ -177.04351458794986
+
+/B5/gun/set_dir_tetha 2.293025292086051
+/B5/gun/set_dir_phi 2.7515695478599658
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.26823779586921187
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/194.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.6783919597989954
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.030036926269531
+/B5/detector/setPositionY -0.9051981985569
+/B5/detector/setPositionZ -3.8432009577751165
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2654427072071647
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 177.12134186320958
+/B5/detector/setRotY -80.62684760769432
+/B5/detector/setRotZ -177.08378436321615
 
+/B5/gun/set_dir_tetha 2.287442447121178
+/B5/gun/set_dir_phi 2.7226072457143764
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/195.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.7185929648241203
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.026571655273438
+/B5/detector/setPositionY -0.7668948233127594
+/B5/detector/setPositionZ -3.8429069519042978
+
+/B5/detector/setRotX 177.5887448635626
+/B5/detector/setRotY -80.60804979173317
+/B5/detector/setRotZ -177.65326885013982
+
+/B5/gun/set_dir_tetha 2.2812814182692196
+/B5/gun/set_dir_phi 2.694001877173983
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2627039353919226
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/196.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.758793969849246
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0232696533203125
+/B5/detector/setPositionY -0.6310782492160797
+/B5/detector/setPositionZ -3.841128909587861
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2600198352220305
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX 178.5711294255338
+/B5/detector/setRotY -80.58992087756815
+/B5/detector/setRotZ -178.74652798706245
 
+/B5/gun/set_dir_tetha 2.2747352905173024
+/B5/gun/set_dir_phi 2.6666189222958434
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/197.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.798994974874372
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.020658874511719
+/B5/detector/setPositionY -0.5138348639011383
+/B5/detector/setPositionZ -3.8384789943695075
+
+/B5/detector/setRotX 179.5330170436844
+/B5/detector/setRotY -80.58259554238376
+/B5/detector/setRotZ -179.8758568561505
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2573888233764919
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2687072760193248
+/B5/gun/set_dir_phi 2.6435736451607332
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/198.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.8391959798994977
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.019194793701172
+/B5/detector/setPositionY -0.4201256811618805
+/B5/detector/setPositionZ -3.8355137944221505
+
+/B5/detector/setRotX -179.3752547424073
+/B5/detector/setRotY -80.56809730637802
+/B5/detector/setRotZ 178.98522672594882
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2548093756109421
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.2635966177138607
+/B5/gun/set_dir_phi 2.6256048308358535
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/199.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.8793969849246235
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0191192626953125
+/B5/detector/setPositionY -0.3482590734958649
+/B5/detector/setPositionZ -3.8328724980354316
+
+/B5/detector/setRotX -178.17266015982833
+/B5/detector/setRotY -80.5539174648474
+/B5/detector/setRotZ 177.88717027016486
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2522800241002465
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/gun/set_dir_tetha 2.259467068298218
+/B5/gun/set_dir_phi 2.612172494083544
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
+
+/vis/ogl/export ./visual/200.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.9195979899497493
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.020243835449219
+/B5/detector/setPositionY -0.2949423849582672
+/B5/detector/setPositionZ -3.8312425374984747
+
+/B5/detector/setRotX -178.0017580278803
+/B5/detector/setRotY -80.54956137803713
+/B5/detector/setRotZ 177.872692476559
+
+/B5/gun/set_dir_tetha 2.2563064431045
+/B5/gun/set_dir_phi 2.6024706676915237
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.24979935491900176
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/201.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 3.959798994974874
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.0219978332519535
+/B5/detector/setPositionY -0.25358877778053285
+/B5/detector/setPositionZ -3.830842852592469
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.24736600565195602
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
+/B5/detector/setRotX -178.42617385433505
+/B5/detector/setRotY -80.54323377281287
+/B5/detector/setRotZ 178.41226234749686
 
+/B5/gun/set_dir_tetha 2.2538707659312056
+/B5/gun/set_dir_phi 2.5951234160854417
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
+
+
+/vis/ogl/export ./visual/202.png
 #___________end____________
 
 /run/initialize
-/B5/detector/setPositionX 4.0
-/B5/detector/setPositionY -1.7
-/B5/detector/setPositionZ 0.0
+/B5/detector/setPositionX -4.023928833007813
+/B5/detector/setPositionY -0.2196129858493805
+/B5/detector/setPositionZ -3.8314937353134164
+
+/B5/detector/setRotX -178.9442639303393
+/B5/detector/setRotY -80.51604878554555
+/B5/detector/setRotZ 178.96371465151032
+
+/B5/gun/set_dir_tetha 2.251942476382622
+/B5/gun/set_dir_phi 2.5891948101935256
+/B5/gun/set_dir_view 0.14579526751155722
+/run/beamOn 10
 
-/B5/gun/set_dir_tetha 1.5707963267948966
-/B5/gun/set_dir_phi 0.2449786631268642
-/B5/gun/set_dir_view 0.014997532907583645
-/run/beamOn 1000000
 
+/vis/ogl/export ./visual/203.png
 #___________end____________
 
