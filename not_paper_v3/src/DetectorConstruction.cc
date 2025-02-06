@@ -147,19 +147,19 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
 
   // Set Shape2 as scoring volume
   //fScoringVolume = logicShape1;
-  G4double shape1_a = 40*mm;
-  G4double shape1_b = 40*mm;
-  G4double shape1_hz = 40*mm;
+  G4double shape1_a = 3.78*mm;
+  G4double shape1_b = 3.78*mm;
+  G4double shape1_hz = 18.9*mm;
   auto solidShape1 = new G4Box("Shape1", shape1_a, shape1_hz, shape1_b);
 
   logDetector = new G4LogicalVolume(solidShape1, det_mat, "logicDet");
 
   //new G4PVPlacement(nullptr, pos1, logicShape1, "Shape1", logicWorld, false, 0, checkOverlaps);
 
-  for (G4int i=0;i<100;i++)
+  for (G4int i=0;i<50;i++)
   {
-    for (G4int j=0;j<100;j++){
-      G4VPhysicalVolume *phys_det = new G4PVPlacement(0,G4ThreeVector(-4*m+(j+0.5)/100*8*m,0,-4*m+(i+0.5)/100*8*m), logDetector, "Shape1", logicWorld, false, j*100+i, checkOverlaps);
+    for (G4int j=0;j<50;j++){
+      G4VPhysicalVolume *phys_det = new G4PVPlacement(0,G4ThreeVector(-4*m+(j+0.5)/50*8*m,0,-4*m+(i+0.5)/50*8*m), logDetector, "Shape1", logicWorld, false, i*50+j, checkOverlaps);
     }
   }
 
