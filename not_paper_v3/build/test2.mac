@@ -1,0 +1,12 @@
+/run/numberOfThreads 8
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/run/printProgress 10000
+/run/initialize
+/gps/particle gamma
+/gps/ene/mono 662 keV
+/gps/position 0  -1.99 0 m
+/gps/ang/type iso
+/run/beamOn 100000000

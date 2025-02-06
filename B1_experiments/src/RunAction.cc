@@ -40,6 +40,7 @@
 #include "G4UnitsTable.hh"
 #include "G4SystemOfUnits.hh"
 
+
 namespace B1
 {
 
@@ -65,21 +66,18 @@ analysisManager->FinishNtuple();
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
-void RunAction::BeginOfRunAction(const G4Run*)
+void RunAction::BeginOfRunAction(const G4Run* run)
 {
-  // inform the runManager to save random number seed
+    auto analysisManager = G4AnalysisManager::Instance();
 
-  //G4RunManager::GetRunManager()->SetRandomNumberStore(false);
+    // Get the run ID and use it in the file name
+    G4int runID = run->GetRunID();
+    G4String fileName = "dump/data_root/output" + std::to_string(runID) + ".root";  // Change ".root" to ".csv" if needed
 
-  auto analysisManager = G4AnalysisManager::Instance();
-   G4String fileName = "signal.root";
-   G4String fileName2 = "signal.csv";
+    // Open the file with the dynamic name
+    analysisManager->OpenFile(fileName);
+    G4cout << "Using " << analysisManager->GetType() << " and saving to file: " << fileName << G4endl;
 
-  analysisManager->OpenFile(fileName);
-  G4cout << "Using " << analysisManager->GetType() << G4endl;
-  // reset accumulables to their initial values
-  //G4AccumulableManager* accumulableManager = G4AccumulableManager::Instance();
-  //accumulableManager->Reset();
 
 }
 

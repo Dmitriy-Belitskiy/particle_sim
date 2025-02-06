@@ -60,7 +60,7 @@ void EventAction::EndOfEventAction(const G4Event*)
   // Виводимо лише енергії, що більше за нуль
   if (fEdep > 0) {
     /*G4cout << fEdep / keV << G4endl;*/
-    G4cout << "Energy collected: " << fEdep / CLHEP::keV << " keV" << G4endl;
+  //G4cout << "Energy collected: " << fEdep / CLHEP::keV << " keV" << G4endl;
     analysisManager->FillNtupleDColumn(0, fEdep/ CLHEP::keV);
     analysisManager->AddNtupleRow();
   // accumulate statistics in run action

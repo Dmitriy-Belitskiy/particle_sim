@@ -107,23 +107,26 @@ void PrimaryGeneratorAction::GeneratePrimaries(G4Event* anEvent)
   }
 
   
-  G4double size = 10*m;
-  G4double x0 = size * (G4UniformRand()-0.5);
-  G4double y0 = -1.5*m + (G4UniformRand()*(-0.2)) ;
-  G4double z0 = size * (G4UniformRand()-0.5);
 
-  fParticleGun->SetParticlePosition(G4ThreeVector(x0,y0,z0));
+G4double x0 = 0;
+G4double y0 = -1.99*m;
+G4double z0 = 0;
+
+G4double twopi = 6.28318530718;
+
+fParticleGun->SetParticlePosition(G4ThreeVector(x0,y0,z0));
   // Генерація випадкового напрямку в додатньому Y
- G4double theta = G4UniformRand()* 2*M_PI; // Кут від 0 до 180 градусів
- G4double phi = G4UniformRand() * (2 * M_PI); 
-
+G4double cosTheta = -1.0 + G4UniformRand()* 2;
+G4double phi = G4UniformRand() * twopi;
+G4double sinTheta = sqrt(1 - cosTheta * cosTheta);
 
   // Обчислення компонентів напрямку
-  G4double xDirection = sin(theta) * cos(phi);
-  G4double yDirection = cos(theta);
-  G4double zDirection = sin(theta) * sin(phi);
+  G4double xDirection = sinTheta * cos(phi);
+  G4double yDirection = cosTheta;
+  G4double zDirection = sinTheta * sin(phi);
 
-  fParticleGun->SetParticleMomentumDirection(G4ThreeVector(xDirection, yDirection, zDirection));
+  //fParticleGun->SetParticleMomentumDirection(G4ThreeVector(xDirection, yDirection, zDirection));
+  fParticleGun->SetParticleMomentumDirection(G4ThreeVector(0, 1, 0));
 
   fParticleGun->GeneratePrimaryVertex(anEvent);
 }

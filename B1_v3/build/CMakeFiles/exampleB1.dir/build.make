@@ -233,17 +233,9 @@ exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4particles.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4geometry.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4materials.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4graphics_reps.so
-exampleB1: /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/sysroot/usr/lib/libGL.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5OpenGL.so.5.15.8
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libXmu.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libXext.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libXt.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libICE.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libSM.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libX11.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Widgets.so.5.15.8
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Gui.so.5.15.8
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Core.so.5.15.8
+exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Widgets.so.5.15.15
+exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Gui.so.5.15.15
+exampleB1: /home/dima/miniconda3/envs/geant310/lib/libQt5Core.so.5.15.15
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libxerces-c.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4analysis.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libfreetype.so
@@ -251,8 +243,8 @@ exampleB1: /home/dima/miniconda3/envs/geant310/lib/libz.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libexpat.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4intercoms.so
 exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4global.so
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4ptl.so.2.3.3
-exampleB1: /home/dima/miniconda3/envs/geant310/lib/libCLHEP-2.4.6.2.so
+exampleB1: /home/dima/miniconda3/envs/geant310/lib/libG4ptl.so.3.0.0
+exampleB1: /home/dima/miniconda3/envs/geant310/lib/libCLHEP-2.4.7.1.so
 exampleB1: CMakeFiles/exampleB1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/dima/geant/particle_sim/B1_v3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable exampleB1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/exampleB1.dir/link.txt --verbose=$(VERBOSE)

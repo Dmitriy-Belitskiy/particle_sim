@@ -40,6 +40,8 @@
 
 #include "Randomize.hh"
 
+#include "G4ScoringManager.hh"
+
 using namespace B1;
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
@@ -63,6 +65,7 @@ int main(int argc,char** argv)
   auto runManager =
     G4RunManagerFactory::CreateRunManager(G4RunManagerType::Default);
 
+  G4ScoringManager* scoringManager = G4ScoringManager::GetScoringManager();
   // Set mandatory initialization classes
   //
   // Detector construction

@@ -178,7 +178,9 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/sstream.tcc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/tls.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4AccValue.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4AccType.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ios.hh \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/iostream \
@@ -252,9 +254,10 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/parse_numbers.h \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/std_mutex.h \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/unique_lock.h \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.icc \
+ /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bitset \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4MergeMode.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Accumulable.icc \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4VAccumulable.icc \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4AccValue.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/globals.hh \
  /home/dima/geant/particle_sim/B1_v3/include/PrimaryGeneratorAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
@@ -313,11 +316,6 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TrajectoryContainer.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VTrajectory.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserEventInformation.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.icc \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Globals.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Types.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Utility.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4EventManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4StackManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserStackingAction.hh \
@@ -538,7 +536,6 @@ CMakeFiles/exampleB1.dir/src/RunAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIcommand.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ApplicationState.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIparameter.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4UItokenNum.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserTrackingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RunManagerKernel.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/rundefs.hh \

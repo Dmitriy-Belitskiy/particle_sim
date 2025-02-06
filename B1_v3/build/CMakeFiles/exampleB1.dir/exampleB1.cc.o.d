@@ -278,15 +278,6 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/pstl/glue_memory_defs.h \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/atomic \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/atomic_futex.h \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.icc \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Globals.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Types.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Utility.hh \
- /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/set \
- /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/stl_set.h \
- /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/stl_multiset.h \
- /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/cstddef \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RNGHelper.hh \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/queue \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/deque \
@@ -295,8 +286,12 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
  /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/stl_queue.h \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RunManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Event.hh \
+ /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/set \
+ /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/stl_set.h \
+ /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/bits/stl_multiset.h \
  /home/dima/miniconda3/envs/geant310/include/Geant4/evtdefs.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Allocator.hh \
+ /home/dima/miniconda3/envs/geant310/x86_64-conda-linux-gnu/include/c++/10.4.0/cstddef \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4AllocatorPool.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4PrimaryVertex.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4PrimaryParticle.hh \
@@ -538,7 +533,6 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIcommand.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ApplicationState.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIparameter.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4UItokenNum.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserTrackingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RunManagerKernel.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/rundefs.hh \
@@ -549,13 +543,18 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TBBTaskGroup.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/TaskGroup.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/AutoLock.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Threading.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/ConsumeParameters.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Types.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Config.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/JoinFunction.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Macros.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/ScopeDestructor.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Task.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/VTask.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/detail/CxxBackports.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/ThreadData.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/ThreadPool.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Threading.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/VUserTaskQueue.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TaskGroup.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TaskManager.hh \
@@ -741,27 +740,9 @@ CMakeFiles/exampleB1.dir/exampleB1.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RayTracerX.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Qt3D.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ToolsSGX11GLES.hh \
+ /home/dima/miniconda3/envs/geant310/include/Geant4/G4ToolsSGX11ZB.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ToolsSGQtGLES.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ToolsSGQtZB.hh \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/QtGlobal \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qglobal.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qconfig.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qtcore-config.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qsystemdetection.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qprocessordetection.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qcompilerdetection.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qtypeinfo.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qglobal.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qsysinfo.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qlogging.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qflags.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qatomic.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qbasicatomic.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qatomic_cxx11.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qgenericatomic.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qglobalstatic.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qnumeric.h \
- /home/dima/miniconda3/envs/geant310/include/qt/QtCore/qversiontagging.h \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UImanager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIsession.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4coutDestination.hh \

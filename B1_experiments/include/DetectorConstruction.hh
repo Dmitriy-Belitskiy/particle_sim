@@ -53,6 +53,7 @@ class DetectorConstruction : public G4VUserDetectorConstruction
 
   protected:
     G4LogicalVolume* fScoringVolume = nullptr;
+    G4LogicalVolume *logDetector;
 };
 
 }

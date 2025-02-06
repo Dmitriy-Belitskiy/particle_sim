@@ -1,0 +1,220 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/dima/geant/particle_sim/paper_aproach_v2/build/CMakeFiles/CMakeScratch/TryCompile-00BPxL
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d59ed/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d59ed.dir/build.make CMakeFiles/cmTC_d59ed.dir/build
+gmake[1]: Entering directory '/home/dima/geant/particle_sim/paper_aproach_v2/build/CMakeFiles/CMakeScratch/TryCompile-00BPxL'
+Building C object CMakeFiles/cmTC_d59ed.dir/src.c.o
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -DCMAKE_HAVE_LIBC_PTHREAD  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -o CMakeFiles/cmTC_d59ed.dir/src.c.o -c /home/dima/geant/particle_sim/paper_aproach_v2/build/CMakeFiles/CMakeScratch/TryCompile-00BPxL/src.c
+Linking C executable cmTC_d59ed
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d59ed.dir/link.txt --verbose=1
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/dima/miniconda3/envs/geant310/lib -Wl,-rpath-link,/home/dima/miniconda3/envs/geant310/lib -L/home/dima/miniconda3/envs/geant310/lib  CMakeFiles/cmTC_d59ed.dir/src.c.o -o cmTC_d59ed 
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: CMakeFiles/cmTC_d59ed.dir/src.c.o: in function `main':
+src.c:(.text.startup.main+0x24): undefined reference to `pthread_create'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x2e): undefined reference to `pthread_detach'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x38): undefined reference to `pthread_cancel'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x44): undefined reference to `pthread_join'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x50): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_d59ed.dir/build.make:99: cmTC_d59ed] Error 1
+gmake[1]: Leaving directory '/home/dima/geant/particle_sim/paper_aproach_v2/build/CMakeFiles/CMakeScratch/TryCompile-00BPxL'
+gmake: *** [Makefile:127: cmTC_d59ed/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/dima/geant/particle_sim/not_paper_aproach_v1/build/CMakeFiles/CMakeScratch/TryCompile-KldpKT
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_01e44/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_01e44.dir/build.make CMakeFiles/cmTC_01e44.dir/build
+gmake[1]: Entering directory '/home/dima/geant/particle_sim/not_paper_aproach_v1/build/CMakeFiles/CMakeScratch/TryCompile-KldpKT'
+Building C object CMakeFiles/cmTC_01e44.dir/src.c.o
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -DCMAKE_HAVE_LIBC_PTHREAD  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -o CMakeFiles/cmTC_01e44.dir/src.c.o -c /home/dima/geant/particle_sim/not_paper_aproach_v1/build/CMakeFiles/CMakeScratch/TryCompile-KldpKT/src.c
+Linking C executable cmTC_01e44
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01e44.dir/link.txt --verbose=1
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/dima/miniconda3/envs/geant310/lib -Wl,-rpath-link,/home/dima/miniconda3/envs/geant310/lib -L/home/dima/miniconda3/envs/geant310/lib  CMakeFiles/cmTC_01e44.dir/src.c.o -o cmTC_01e44 
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: CMakeFiles/cmTC_01e44.dir/src.c.o: in function `main':
+src.c:(.text.startup.main+0x24): undefined reference to `pthread_create'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x2e): undefined reference to `pthread_detach'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x38): undefined reference to `pthread_cancel'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x44): undefined reference to `pthread_join'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x50): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_01e44.dir/build.make:99: cmTC_01e44] Error 1
+gmake[1]: Leaving directory '/home/dima/geant/particle_sim/not_paper_aproach_v1/build/CMakeFiles/CMakeScratch/TryCompile-KldpKT'
+gmake: *** [Makefile:127: cmTC_01e44/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/dima/geant/particle_sim/broken/build/CMakeFiles/CMakeScratch/TryCompile-rA9vZo
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_e4b59/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_e4b59.dir/build.make CMakeFiles/cmTC_e4b59.dir/build
+gmake[1]: Entering directory '/home/dima/geant/particle_sim/broken/build/CMakeFiles/CMakeScratch/TryCompile-rA9vZo'
+Building C object CMakeFiles/cmTC_e4b59.dir/src.c.o
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -DCMAKE_HAVE_LIBC_PTHREAD  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -o CMakeFiles/cmTC_e4b59.dir/src.c.o -c /home/dima/geant/particle_sim/broken/build/CMakeFiles/CMakeScratch/TryCompile-rA9vZo/src.c
+Linking C executable cmTC_e4b59
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e4b59.dir/link.txt --verbose=1
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/dima/miniconda3/envs/geant310/lib -Wl,-rpath-link,/home/dima/miniconda3/envs/geant310/lib -L/home/dima/miniconda3/envs/geant310/lib  CMakeFiles/cmTC_e4b59.dir/src.c.o -o cmTC_e4b59 
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: CMakeFiles/cmTC_e4b59.dir/src.c.o: in function `main':
+src.c:(.text.startup.main+0x24): undefined reference to `pthread_create'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x2e): undefined reference to `pthread_detach'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x38): undefined reference to `pthread_cancel'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x44): undefined reference to `pthread_join'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x50): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_e4b59.dir/build.make:99: cmTC_e4b59] Error 1
+gmake[1]: Leaving directory '/home/dima/geant/particle_sim/broken/build/CMakeFiles/CMakeScratch/TryCompile-rA9vZo'
+gmake: *** [Makefile:127: cmTC_e4b59/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-gv2XGt
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_51705/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_51705.dir/build.make CMakeFiles/cmTC_51705.dir/build
+gmake[1]: Entering directory '/home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-gv2XGt'
+Building C object CMakeFiles/cmTC_51705.dir/src.c.o
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -DCMAKE_HAVE_LIBC_PTHREAD  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -o CMakeFiles/cmTC_51705.dir/src.c.o -c /home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-gv2XGt/src.c
+Linking C executable cmTC_51705
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_51705.dir/link.txt --verbose=1
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/dima/miniconda3/envs/geant310/lib -Wl,-rpath-link,/home/dima/miniconda3/envs/geant310/lib -L/home/dima/miniconda3/envs/geant310/lib  CMakeFiles/cmTC_51705.dir/src.c.o -o cmTC_51705 
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: CMakeFiles/cmTC_51705.dir/src.c.o: in function `main':
+src.c:(.text.startup.main+0x24): undefined reference to `pthread_create'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x2e): undefined reference to `pthread_detach'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x38): undefined reference to `pthread_cancel'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x44): undefined reference to `pthread_join'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x50): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_51705.dir/build.make:99: cmTC_51705] Error 1
+gmake[1]: Leaving directory '/home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-gv2XGt'
+gmake: *** [Makefile:127: cmTC_51705/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-Ddunr5
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_1377e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_1377e.dir/build.make CMakeFiles/cmTC_1377e.dir/build
+gmake[1]: Entering directory '/home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-Ddunr5'
+Building C object CMakeFiles/cmTC_1377e.dir/src.c.o
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -DCMAKE_HAVE_LIBC_PTHREAD  -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -o CMakeFiles/cmTC_1377e.dir/src.c.o -c /home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-Ddunr5/src.c
+Linking C executable cmTC_1377e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1377e.dir/link.txt --verbose=1
+/home/dima/miniconda3/envs/geant310/bin/x86_64-conda-linux-gnu-cc -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dima/miniconda3/envs/geant310/include  -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,--allow-shlib-undefined -Wl,-rpath,/home/dima/miniconda3/envs/geant310/lib -Wl,-rpath-link,/home/dima/miniconda3/envs/geant310/lib -L/home/dima/miniconda3/envs/geant310/lib  CMakeFiles/cmTC_1377e.dir/src.c.o -o cmTC_1377e 
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: CMakeFiles/cmTC_1377e.dir/src.c.o: in function `main':
+src.c:(.text.startup.main+0x24): undefined reference to `pthread_create'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x2e): undefined reference to `pthread_detach'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x38): undefined reference to `pthread_cancel'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x44): undefined reference to `pthread_join'
+/home/dima/miniconda3/envs/geant310/bin/../lib/gcc/x86_64-conda-linux-gnu/10.4.0/../../../../x86_64-conda-linux-gnu/bin/ld: src.c:(.text.startup.main+0x50): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_1377e.dir/build.make:99: cmTC_1377e] Error 1
+gmake[1]: Leaving directory '/home/dima/geant/particle_sim/not_paper_v3/build/CMakeFiles/CMakeScratch/TryCompile-Ddunr5'
+gmake: *** [Makefile:127: cmTC_1377e/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+

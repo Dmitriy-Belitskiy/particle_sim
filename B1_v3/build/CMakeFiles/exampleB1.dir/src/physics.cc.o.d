@@ -505,11 +505,6 @@ CMakeFiles/exampleB1.dir/src/physics.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4DataVector.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4StepPoint.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TrackVector.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.icc \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Globals.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Types.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Utility.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Step.icc \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4Track.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/trkdefs.hh \

@@ -356,11 +356,6 @@ CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4TrajectoryContainer.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VTrajectory.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4VUserEventInformation.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4Profiler.icc \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Globals.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Types.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/PTL/Utility.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4EventManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4StackManager.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserStackingAction.hh \
@@ -546,7 +541,6 @@ CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o: \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIcommand.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4ApplicationState.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UIparameter.hh \
- /home/dima/miniconda3/envs/geant310/include/Geant4/G4UItokenNum.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4UserTrackingAction.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/G4RunManagerKernel.hh \
  /home/dima/miniconda3/envs/geant310/include/Geant4/rundefs.hh \

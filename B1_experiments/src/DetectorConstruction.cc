@@ -47,7 +47,7 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
   G4NistManager* nist = G4NistManager::Instance();
 
   // Envelope parameters
-  G4double env_sizeXY = 5*m, env_sizeZ = 5*m;
+  G4double env_sizeXZ = 5*m, env_sizeY = 5*m;
   G4Material* env_mat = nist->FindOrBuildMaterial("G4_AIR");
   //G4Material* env2_mat = nist->FindOrBuildMaterial("G4_WATER");
   // Option to switch on/off checking of volumes overlaps
@@ -56,11 +56,10 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
   //
   // World
   //
-  G4double world_sizeXY = 1.0*env_sizeXY;
-  G4double world_sizeZ  = 1.0*env_sizeZ;
+
   G4Material* world_mat = nist->FindOrBuildMaterial("G4_AIR");
 
-  auto solidWorld = new G4Box("World", 1.2 * world_sizeXY, 0.8 * world_sizeXY, 1.2 * world_sizeZ);
+  auto solidWorld = new G4Box("World", 1.2 * env_sizeXZ, 0.8 * env_sizeY, 1.2 * env_sizeXZ);
   auto logicWorld = new G4LogicalVolume(solidWorld, world_mat, "World");
 
   auto physWorld = new G4PVPlacement(nullptr, G4ThreeVector(), logicWorld, "World", nullptr, false, 0, checkOverlaps);
@@ -125,21 +124,25 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
   */
 
   // Create Envelope 2 using soil
-  auto solidEnv2 = new G4Box("Envelope1", 1.0 * env_sizeXY, 0.25 * env_sizeXY, 1.0 * env_sizeZ);
+  auto solidEnv2 = new G4Box("Envelope1", 1.2 * env_sizeXZ, 0.2 * env_sizeY, 1.2 * env_sizeXZ);
   auto logicEnv2 = new G4LogicalVolume(solidEnv2, soil , "Envelope1");
 
-  new G4PVPlacement(nullptr, G4ThreeVector(0, -2.75*m, 0), logicEnv2, "Envelope1", logicWorld, false, 0, checkOverlaps);
+  //new G4PVPlacement(nullptr, G4ThreeVector(0, -3*m, 0), logicEnv2, "Envelope1", logicWorld, false, 0, checkOverlaps);
 
   // Shape 1
   G4Material* shape1_mat = nist->FindOrBuildMaterial("G4_SODIUM_IODIDE");
   //G4Material* shape1_mat = nist->FindOrBuildMaterial("G4_BGO");
-  G4ThreeVector pos1 = G4ThreeVector(0, 0.5189*m, 0);
+  G4ThreeVector pos1 = G4ThreeVector(0, -1.5*m, 0);
 
   // Shape 1
-  int scale =200;
-  G4double shape1_a = scale*3.78*mm;
-  G4double shape1_b = scale*3.78*mm;
+  //int scale =100;
+  //G4double shape1_a = scale*3.78*mm;
+  //G4double shape1_b = scale*3.78*mm;
+  //G4double shape1_hz = 18.9*mm;
+  G4double shape1_a = 4*mm;
+  G4double shape1_b = 4*mm;
   G4double shape1_hz = 18.9*mm;
+
   auto solidShape1 = new G4Box("Shape1", shape1_a, shape1_hz, shape1_b);
 
   auto logicShape1 = new G4LogicalVolume(solidShape1, shape1_mat, "Shape1");

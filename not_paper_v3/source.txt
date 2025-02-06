@@ -1,0 +1,6 @@
+/gps/particle gamma
+/gps/energy 0.662
+/gps/position 0  -1.99 0 m
+/gps/ang/type iso
+
+
