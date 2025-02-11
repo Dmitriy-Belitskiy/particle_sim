@@ -62,7 +62,16 @@
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
-/vis/viewer/set/style w
-/vis/viewer/refresh
-/vis/viewer/set/hiddenEdge 0
-/vis/viewer/refresh
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 0 -2.15 0 m
+/gps/pos/halfx 6 m
+/gps/pos/halfy 0.15 m
+/gps/pos/halfz 6 m
+/gps/particle gamma
+/gps/ene/mono 1460.8 keV
+/gps/ang/type iso
+/run/beamOn 1000
+/vis/scene/notifyHandlers scene-0
+/analysis/h1/getVector
+/analysis/h2/getVector
