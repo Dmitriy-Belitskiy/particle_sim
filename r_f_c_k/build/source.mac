@@ -1,0 +1,33 @@
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/run/printProgress 1000
+
+
+/run/initialize
+
+/B5/detector/setPositionX 0
+/B5/detector/setPositionY -1
+/B5/detector/setPositionZ 0
+
+/run/initialize
+
+/gps/source/add 1
+/gps/pos/centre 0 -2 0 m
+/gps/direction 0 1 0
+/gps/particle gamma
+/gps/ene/mono 0.8 MeV
+/gps/source/intensity 0.5
+
+/run/beamOn 10000
+
+
+/gps/source/add 1
+/gps/pos/centre 0 -2 0 m
+/gps/direction 0 1 0
+/gps/particle gamma
+/gps/ene/mono 0.9 MeV
+/gps/source/intensity 0.5
+
+
+/run/beamOn 10000
