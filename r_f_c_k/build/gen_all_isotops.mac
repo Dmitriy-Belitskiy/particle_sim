@@ -1,0 +1,51 @@
+/control/verbose 0
+        /run/verbose 0
+        /event/verbose 0
+        /tracking/verbose 0
+        /run/printProgress 1000
+        /run/initialize
+        /gps/source/clear
+        
+        /B5/detector/setPositionX 0
+        /B5/detector/setPositionY -1
+        /B5/detector/setPositionZ 0
+        
+        
+        /control/execute scripts/source0.mac
+/control/execute scripts/source1.mac
+/control/execute scripts/source5.mac
+/control/execute scripts/source6.mac
+/control/execute scripts/source8.mac
+/control/execute scripts/source9.mac
+/control/execute scripts/source11.mac
+/control/execute scripts/source12.mac
+/control/execute scripts/source14.mac
+/control/execute scripts/source15.mac
+/control/execute scripts/source16.mac
+/control/execute scripts/source18.mac
+/control/execute scripts/source20.mac
+/control/execute scripts/source22.mac
+/control/execute scripts/source24.mac
+/control/execute scripts/source25.mac
+/control/execute scripts/source26.mac
+/control/execute scripts/source27.mac
+/control/execute scripts/source28.mac
+/control/execute scripts/source31.mac
+/control/execute scripts/source32.mac
+/control/execute scripts/source33.mac
+/control/execute scripts/source34.mac
+/control/execute scripts/source35.mac
+/control/execute scripts/source36.mac
+/control/execute scripts/source37.mac
+/control/execute scripts/source38.mac
+/control/execute scripts/source39.mac
+/control/execute scripts/source41.mac
+/control/execute scripts/source42.mac
+/control/execute scripts/source43.mac
+/control/execute scripts/source44.mac
+/control/execute scripts/source45.mac
+/control/execute scripts/source46.mac
+/control/execute scripts/source47.mac
+/control/execute scripts/source48.mac
+/control/execute scripts/source49.mac
+/control/execute scripts/source50.mac

@@ -1,0 +1,1961 @@
+
+        /analysis/openFile dump/data_root/output_34_.root
+        /gps/source/clear
+               
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.030 MeV
+            /gps/source/intensity 0.00140
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.020 MeV
+            /gps/source/intensity 0.00437
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.050 MeV
+            /gps/source/intensity 0.15438
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.032 MeV
+            /gps/source/intensity 0.00126
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.061 MeV
+            /gps/source/intensity 0.00166
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.050 MeV
+            /gps/source/intensity 0.00784
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.080 MeV
+            /gps/source/intensity 0.03586
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.044 MeV
+            /gps/source/intensity 0.00102
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.075 MeV
+            /gps/source/intensity 0.00050
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.044 MeV
+            /gps/source/intensity 0.00097
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.062 MeV
+            /gps/source/intensity 0.00373
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.074 MeV
+            /gps/source/intensity 0.00026
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.094 MeV
+            /gps/source/intensity 0.02781
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.069 MeV
+            /gps/source/intensity 0.00107
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.100 MeV
+            /gps/source/intensity 0.00154
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.051 MeV
+            /gps/source/intensity 0.00029
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.070 MeV
+            /gps/source/intensity 0.00019
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.095 MeV
+            /gps/source/intensity 0.00045
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.113 MeV
+            /gps/source/intensity 0.00998
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.044 MeV
+            /gps/source/intensity 0.00024
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.113 MeV
+            /gps/source/intensity 0.00285
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.173 MeV
+            /gps/source/intensity 0.00032
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.185 MeV
+            /gps/source/intensity 0.00067
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.205 MeV
+            /gps/source/intensity 0.00302
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.235 MeV
+            /gps/source/intensity 0.00831
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.073 MeV
+            /gps/source/intensity 0.00045
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.117 MeV
+            /gps/source/intensity 0.00366
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.124 MeV
+            /gps/source/intensity 0.00026
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.150 MeV
+            /gps/source/intensity 0.00020
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.176 MeV
+            /gps/source/intensity 0.00038
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.201 MeV
+            /gps/source/intensity 0.00024
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.219 MeV
+            /gps/source/intensity 0.00202
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.250 MeV
+            /gps/source/intensity 0.00016
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.236 MeV
+            /gps/source/intensity 0.23751
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.256 MeV
+            /gps/source/intensity 0.12897
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.286 MeV
+            /gps/source/intensity 0.03206
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.141 MeV
+            /gps/source/intensity 0.00219
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.044 MeV
+            /gps/source/intensity 0.00392
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.095 MeV
+            /gps/source/intensity 0.00045
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.206 MeV
+            /gps/source/intensity 0.00468
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.250 MeV
+            /gps/source/intensity 0.00831
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.280 MeV
+            /gps/source/intensity 0.00100
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.300 MeV
+            /gps/source/intensity 0.04061
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.330 MeV
+            /gps/source/intensity 0.05415
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.048 MeV
+            /gps/source/intensity 0.00026
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.054 MeV
+            /gps/source/intensity 0.00012
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.100 MeV
+            /gps/source/intensity 0.00048
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.204 MeV
+            /gps/source/intensity 0.00418
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.211 MeV
+            /gps/source/intensity 0.02304
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.255 MeV
+            /gps/source/intensity 0.01306
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.273 MeV
+            /gps/source/intensity 0.00936
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.284 MeV
+            /gps/source/intensity 0.00074
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.304 MeV
+            /gps/source/intensity 0.02114
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.334 MeV
+            /gps/source/intensity 0.02090
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.056 MeV
+            /gps/source/intensity 0.00017
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.108 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.263 MeV
+            /gps/source/intensity 0.00197
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.281 MeV
+            /gps/source/intensity 0.00328
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.292 MeV
+            /gps/source/intensity 0.00121
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.313 MeV
+            /gps/source/intensity 0.00950
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.343 MeV
+            /gps/source/intensity 0.00641
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.062 MeV
+            /gps/source/intensity 0.00373
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.108 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.168 MeV
+            /gps/source/intensity 0.00027
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.213 MeV
+            /gps/source/intensity 0.00145
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.219 MeV
+            /gps/source/intensity 0.00202
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.281 MeV
+            /gps/source/intensity 0.00328
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.064 MeV
+            /gps/source/intensity 0.00048
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.300 MeV
+            /gps/source/intensity 0.00026
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.351 MeV
+            /gps/source/intensity 0.00202
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.135 MeV
+            /gps/source/intensity 0.00062
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.290 MeV
+            /gps/source/intensity 0.03563
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.319 MeV
+            /gps/source/intensity 0.00059
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.369 MeV
+            /gps/source/intensity 0.00011
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.033 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.042 MeV
+            /gps/source/intensity 0.00052
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.096 MeV
+            /gps/source/intensity 0.00128
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.141 MeV
+            /gps/source/intensity 0.00219
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.202 MeV
+            /gps/source/intensity 0.00044
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.246 MeV
+            /gps/source/intensity 0.00023
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.253 MeV
+            /gps/source/intensity 0.00204
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.296 MeV
+            /gps/source/intensity 0.00808
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.315 MeV
+            /gps/source/intensity 0.00903
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.326 MeV
+            /gps/source/intensity 0.00012
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.346 MeV
+            /gps/source/intensity 0.00022
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.063 MeV
+            /gps/source/intensity 0.00013
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.170 MeV
+            /gps/source/intensity 0.00010
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.325 MeV
+            /gps/source/intensity 0.00019
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.250 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.363 MeV
+            /gps/source/intensity 0.00093
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.308 MeV
+            /gps/source/intensity 0.00031
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.353 MeV
+            /gps/source/intensity 0.00019
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.382 MeV
+            /gps/source/intensity 0.00012
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.402 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.100 MeV
+            /gps/source/intensity 0.00024
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.162 MeV
+            /gps/source/intensity 0.00014
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.268 MeV
+            /gps/source/intensity 0.00013
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.318 MeV
+            /gps/source/intensity 0.00012
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.040 MeV
+            /gps/source/intensity 0.00029
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.069 MeV
+            /gps/source/intensity 0.00107
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.198 MeV
+            /gps/source/intensity 0.00024
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.271 MeV
+            /gps/source/intensity 0.00052
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.315 MeV
+            /gps/source/intensity 0.00903
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.384 MeV
+            /gps/source/intensity 0.00045
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.213 MeV
+            /gps/source/intensity 0.00036
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.226 MeV
+            /gps/source/intensity 0.00017
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.286 MeV
+            /gps/source/intensity 0.00081
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.267 MeV
+            /gps/source/intensity 0.00019
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.290 MeV
+            /gps/source/intensity 0.00036
+            /B5/detector/setRotX 0
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 2
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 4
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 6
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 8
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 10
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 12
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 14
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 16
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 18
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 20
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 22
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 24
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 26
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 28
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 30
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 32
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 34
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 36
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 38
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 40
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 42
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 44
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 46
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 48
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 50
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 52
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 54
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 56
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 58
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 60
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 62
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 64
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 66
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 68
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 70
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 72
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 74
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 76
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 78
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 80
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 82
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 84
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 86
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 88
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 90
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /analysis/closeFile

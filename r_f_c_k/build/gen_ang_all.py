@@ -1,29 +1,33 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[34]:
+# In[1]:
 
 
 import numpy as np
 
 
-# In[35]:
+# In[2]:
 
 
 data=np.loadtxt("lines.txt")
 
 
-# In[36]:
+# In[3]:
 
 
 map_zero=data[:,2]==0
+
 map_nonne_zero=data[:,2]!=0
-np.count_nonzero(map_zero)
-
-data_v2=data[map_nonne_zero]
+map_en_lim=data[:,1]>=20
 
 
-# In[37]:
+np.count_nonzero(np.logical_and(map_zero,map_en_lim))
+
+data_v2=data[np.logical_and(map_nonne_zero,map_en_lim)]
+
+
+# In[4]:
 
 
 sources=np.unique(data_v2[:,0])
@@ -41,10 +45,14 @@ for i in data_per_source:
         
         dat_s[:,2]=dat_s[:,2]/sum_s
     
-    data_per_source_norm.append(dat_s)
+    data_per_source_norm.append(dat_s[dat_s[:,2]>0.0001])
+    
+    
+    
+#data_per_source_norm=data_per_source_norm[1:3]
 
 
-# In[38]:
+# In[5]:
 
 
 def generate_loop(file,dat):
@@ -69,8 +77,8 @@ def generate_loop(file,dat):
             /gps/direction 0 1 0
             /gps/particle gamma
             /gps/ene/type Mono
-            /gps/ene/mono {} MeV
-            /gps/source/intensity {}
+            /gps/ene/mono {:.3f} MeV
+            /gps/source/intensity {:.5f}
             """.format(line/1000,intencity))
         
         
@@ -87,10 +95,10 @@ def generate_loop(file,dat):
         file.write("/analysis/closeFile")
 
 
-# In[39]:
+# In[6]:
 
 
-def generate_macro_file_head(filename="hen_all_isotops.mac"):
+def generate_macro_file_head(filename="gen_all_isotops.mac"):
     with open(filename, "w") as f:
         # Write the initial part of the macro
         f.write("""/control/verbose 0
@@ -108,15 +116,43 @@ def generate_macro_file_head(filename="hen_all_isotops.mac"):
         
         """)
         for i in data_per_source_norm: 
-            generate_loop(f,i)
+            f.write("/control/execute scripts/source{}.mac\n".format(int(i[0,0])))
                
     
 
 
-# In[40]:
+# In[7]:
 
 
 generate_macro_file_head()
+
+
+# In[8]:
+
+
+for i in data_per_source_norm: 
+    
+        filename = 'scripts/source{}.mac'.format(int(i[0,0]))
+        with open(filename, "w") as f:
+            generate_loop(f,i)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:

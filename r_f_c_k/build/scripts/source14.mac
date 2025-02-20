@@ -1,0 +1,671 @@
+
+        /analysis/openFile dump/data_root/output_14_.root
+        /gps/source/clear
+               
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.405 MeV
+            /gps/source/intensity 0.35654
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.362 MeV
+            /gps/source/intensity 0.00402
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.767 MeV
+            /gps/source/intensity 0.05817
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.065 MeV
+            /gps/source/intensity 0.00730
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.427 MeV
+            /gps/source/intensity 0.16549
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.832 MeV
+            /gps/source/intensity 0.33221
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.951 MeV
+            /gps/source/intensity 0.00207
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.609 MeV
+            /gps/source/intensity 0.00402
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.015 MeV
+            /gps/source/intensity 0.00163
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.314 MeV
+            /gps/source/intensity 0.00292
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.677 MeV
+            /gps/source/intensity 0.00122
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.080 MeV
+            /gps/source/intensity 0.00116
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.104 MeV
+            /gps/source/intensity 0.00044
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.095 MeV
+            /gps/source/intensity 0.00170
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.343 MeV
+            /gps/source/intensity 0.00329
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.705 MeV
+            /gps/source/intensity 0.04356
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.109 MeV
+            /gps/source/intensity 0.01083
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.430 MeV
+            /gps/source/intensity 0.00061
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.196 MeV
+            /gps/source/intensity 0.00096
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.234 MeV
+            /gps/source/intensity 0.00012
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.504 MeV
+            /gps/source/intensity 0.00055
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 0.866 MeV
+            /gps/source/intensity 0.00056
+                   
+            /gps/source/add 1
+            /gps/pos/type Plane
+            /gps/pos/shape Square
+            /gps/pos/centre 0 -2 0 m
+            /gps/pos/halfx 0.004 m
+            /gps/pos/halfy 0.02 m
+            /gps/pos/rot1 1 0 0
+            /gps/pos/rot2 0 0 -1
+
+            /gps/direction 0 1 0
+            /gps/particle gamma
+            /gps/ene/type Mono
+            /gps/ene/mono 1.271 MeV
+            /gps/source/intensity 0.00064
+            /B5/detector/setRotX 0
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 2
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 4
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 6
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 8
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 10
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 12
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 14
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 16
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 18
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 20
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 22
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 24
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 26
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 28
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 30
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 32
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 34
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 36
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 38
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 40
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 42
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 44
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 46
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 48
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 50
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 52
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 54
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 56
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 58
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 60
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 62
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 64
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 66
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 68
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 70
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 72
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 74
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 76
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 78
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 80
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 82
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 84
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 86
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 88
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /B5/detector/setRotX 90
+                    /run/initialize
+                    /run/beamOn 10000
+                    /analysis/write
+                    /analysis/reset
+                    
+                    
+        /analysis/closeFile
